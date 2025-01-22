@@ -1,19 +1,30 @@
-// See https://github.com/typicode/json-server#module
 const cors = require('cors');
-const jsonServer = require('json-server')
-const server = jsonServer.create()
-const auth = require("json-server-auth");
-const db = require("./db.json");
-const router = jsonServer.router(db);
+const { v4: uuidv4 } = require('uuid');
+const jsonServer = require('json-server');
+
+const server = jsonServer.create();
+const auth = require('json-server-auth');
+
+const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
-server.use(cors())
-server.use(middlewares)
+server.use(middlewares);
+server.use(cors());
+
+server.use(jsonServer.bodyParser)
+// 自訂中介層，為每筆新增資料生成亂碼 ID
+server.use((req, res, next) => {
+  if (req.method === 'POST' && req.body) {
+    req.body.id = uuidv4(); // 自動生成亂碼 ID
+  }
+  next();
+});
+
 server.db = router.db;
 server.use(auth);
-server.use(router)
-server.listen(3000, () => {
-    console.log('JSON Server is running')
-})
+server.use(router);
 
-// Export the Server API
-module.exports = server
+server.listen(3000, () => {
+  console.log('JSON Server is running');
+});
+
+module.exports = server;
