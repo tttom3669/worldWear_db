@@ -1,5 +1,6 @@
 const cors = require('cors');
-const { v4: uuidv4 } = require('uuid');
+// const { v4: uuidv4 } = require('uuid');
+const { nanoid } = require('nanoid');
 const jsonServer = require('json-server');
 
 const server = jsonServer.create();
@@ -10,11 +11,12 @@ const middlewares = jsonServer.defaults();
 server.use(middlewares);
 server.use(cors());
 
-server.use(jsonServer.bodyParser)
+server.use(jsonServer.bodyParser);
 // 自訂中介層，為每筆新增資料生成亂碼 ID
 server.use((req, res, next) => {
   if (req.method === 'POST' && req.body) {
-    req.body.id = uuidv4(); // 自動生成亂碼 ID
+    // req.body.id = uuidv4(); // 自動生成亂碼 ID
+    req.body.id = nanoid(); // 自動生成亂碼 ID
   }
   next();
 });

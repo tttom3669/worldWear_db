@@ -1,5 +1,12 @@
 {
-  "users": [],
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$tSfAR1tUtuBm0qltAt96FOsp4ZfNI.ca94Hy5ElN493ud3uXs2zlq",
+      "role": "admin",
+      "id": "lwbR8Aj9d_5lPRtZesX_4"
+    }
+  ],
   "orders": [],
   "carts": []
 }
