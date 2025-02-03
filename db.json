@@ -1,4 +1,7 @@
 {
-  "users": [
-  ]
+  "users": [],
+  "products": [],
+  "orders": [],
+  "carts": [],
+  "favorites": []
 }
