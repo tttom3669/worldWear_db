@@ -1,18 +1,5 @@
 {
-  "users": [
-    {
-      "email": "worldwear@gmail.com2",
-      "password": "$2a$10$FzsH.L.eH49krTjve3dswOSAa06ScwzZ3JahNy6ul.QSusmpKMqDu",
-      "role": "admin",
-      "id": "QoJjAUj6ziIlxASvarUb1"
-    },
-    {
-      "email": "worldwear@gmail.com",
-      "password": "$2a$10$h9QnzkoCJAqU6mtzx8Bnnu1tl/3xs3sVKiKsgHiMLTQO25Hbdhfiq",
-      "role": "admin",
-      "id": "qrmzefp7P_lxlnWuvSUJB"
-    }
-  ],
+  "users": [],
   "products": [],
   "orders": [],
   "carts": [],
