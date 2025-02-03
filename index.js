@@ -24,7 +24,9 @@ server.use((req, res, next) => {
 const rules = auth.rewriter({
   users: 600,
   orders: 600,
-  "/admin/orders/*": '/660/orders'
+  '/admin/users': '/users',
+  '/admin/users/*': '/users/$1',
+  '/admin/orders/*': '/660/orders/$1',
 });
 
 server.db = router.db;
