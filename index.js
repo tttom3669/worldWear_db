@@ -5,11 +5,12 @@ const jsonServer = require('json-server');
 const auth = require('json-server-auth');
 
 const server = jsonServer.create();
-const router = jsonServer.router('./db.json');
+const db = require('./db.json');
+const router = jsonServer.router(db);
 const middlewares = jsonServer.defaults();
 
-server.use(middlewares);
 server.use(cors());
+server.use(middlewares);
 server.use(jsonServer.bodyParser);
 
 // 自訂中介層，為每筆新增資料生成亂碼 ID
