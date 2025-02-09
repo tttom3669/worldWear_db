@@ -4,15 +4,15 @@ const jsonServer = require('json-server');
 const auth = require('json-server-auth');
 
 const server = jsonServer.create();
-const db = require('./db.json');
-const router = jsonServer.router(db);
+// const db = require('./db.json');
+const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
 
 server.use(cors());
 server.use(middlewares);
 server.use(jsonServer.bodyParser);
 
-// 自訂中介層，為每筆新增資料生成亂碼 ID 並自動備份
+// 自訂中介層，為每筆新增資料生成亂碼 ID
 server.use((req, res, next) => {
   if (req.method === 'POST' && req.body) {
     req.body.id = nanoid();
