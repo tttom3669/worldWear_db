@@ -23,8 +23,10 @@ server.use((req, res, next) => {
 const rules = auth.rewriter({
   users: 600,
   orders: 600,
-  '/admin/users': '/users',
-  '/admin/users/*': '/users/$1',
+  favorites: 600,
+  '/admin/users': '/660/users',
+  '/admin/users/*': '/660/users/$1',
+  '/admin/orders': '/660/orders',
   '/admin/orders/*': '/660/orders/$1',
 });
 
