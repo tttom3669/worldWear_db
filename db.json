@@ -1,6 +1,493 @@
 {
   "users": [],
-  "products": [],
+  "products": [
+    {
+      "class": "女裝",
+      "category": "上衣",
+      "categoryItems": "襯衫",
+      "title": "法蘭絨短版襯衫",
+      "content": {
+        "design_style": "休閒穿搭",
+        "design_introduction": "法蘭絨短版襯衫以柔軟溫暖的法蘭絨材質製成，適合秋冬季節穿著，帶來舒適的保暖效果。短版剪裁搭配經典格紋設計，增添時尚感與層次感，無論單穿或作為外搭都能展現休閒風格。",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 深淺色請分開洗滌，以避免造成互相移染。",
+        "method2": "2. 請使用冷水或溫水(低於30°C)手洗，並使用中性洗劑，避免長時間浸泡。",
+        "method3": "3. 請勿使用高溫烘乾，建議自然晾乾以維持布料質感。",
+        "method4": "4. 避免使用漂白劑或螢光增白劑，以免損害布料纖維。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 1200,
+      "price": 850,
+      "unit": "件",
+      "color": [
+        "紅色",
+        "黃色",
+        "水藍色"
+      ],
+      "num": {
+        "S": 12,
+        "M": 13,
+        "L": 14,
+        "XL": 12,
+        "2XL": 11
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "imageUrl": "https://i.meee.com.tw/wEzHrAc.jpeg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/cQ4ntRf.jpeg",
+        "https://i.meee.com.tw/706jNy2.jpg"
+      ],
+      "id": "knI4tV8qNwNbSpb-wZAVO"
+    },
+    {
+      "class": "女裝",
+      "category": "上衣",
+      "categoryItems": "針織衫",
+      "title": "開領麻花針織衫",
+      "content": {
+        "design_style": "氣質穿搭",
+        "design_introduction": "開領麻花針織衫採用柔軟舒適的針織面料，搭配經典麻花編織設計，展現獨特的質感層次。開領設計增添隨性與優雅氣息，適合單穿或搭配內搭，營造輕鬆又不失時尚感的秋冬造型。",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 深淺色請分開洗滌，以避免造成互相移染。",
+        "method2": "2. 請使用冷水或溫水(低於30°C)手洗，並使用中性洗劑，避免長時間浸泡。",
+        "method3": "3. 請勿扭乾，建議輕壓擠水後平放晾乾，以維持針織彈性與形狀。",
+        "method4": "4. 避免使用漂白劑或螢光增白劑，以免損害布料纖維。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 1500,
+      "price": 1100,
+      "unit": "件",
+      "color": [
+        "米白色",
+        "卡其色",
+        "灰色"
+      ],
+      "num": {
+        "S": 3,
+        "M": 4,
+        "L": 5,
+        "XL": 2,
+        "2XL": 1
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "imageUrl": "https://i.meee.com.tw/JZRsUxA.jpg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/5tJDHAj.jpg",
+        "https://i.meee.com.tw/nluP66V.jpg "
+      ],
+      "id": "MlQX3ZK0WxiUeQbofecXY"
+    },
+    {
+      "class": "女裝",
+      "category": "上衣",
+      "categoryItems": "T恤",
+      "title": "水洗羅紋短版T恤（長袖）",
+      "content": {
+        "design_style": "簡約休閒",
+        "design_introduction": "水洗羅紋短版T恤（長袖）選用高彈性的棉質羅紋布，經過特殊水洗工藝處理，帶來柔軟親膚的穿著感受。短版設計搭配貼身剪裁，展現俐落的線條感，適合搭配高腰褲或裙子，打造率性休閒風格，無論單穿或作為內搭都非常百搭。",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 深淺色衣物請分開洗滌，避免染色問題。",
+        "method2": "2. 建議冷水手洗或放入洗衣袋機洗，使用中性洗劑。",
+        "method3": "3. 請勿長時間浸泡，避免布料變形或褪色。",
+        "method4": "4. 避免高溫烘乾，建議平放晾乾以維持衣物版型。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 900,
+      "price": 650,
+      "unit": "件",
+      "color": [
+        "青綠色",
+        "灰色"
+      ],
+      "num": {
+        "S": 4,
+        "M": 5,
+        "L": 6,
+        "XL": 3,
+        "2XL": 2
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "imageUrl": "https://i.meee.com.tw/kXGxAOu.jpg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/echkcoS.jpg"
+      ],
+      "id": "6GwGUGTT9qpqdt9S4XkeI"
+    },
+    {
+      "class": "女裝",
+      "category": "上衣",
+      "categoryItems": "休閒上衣",
+      "title": "水洗休閒上衣",
+      "content": {
+        "design_style": "街頭潮流",
+        "design_introduction": "水洗休閒上衣採用高品質純棉面料，經過特殊水洗工藝處理，呈現自然復古的色澤與柔軟觸感。寬鬆的剪裁設計提供舒適的穿著體驗，搭配下擺微微不規則的設計增添層次感，輕鬆打造出隨性又有型的街頭穿搭風格。",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 深淺色衣物請分開洗滌，避免顏色互染。",
+        "method2": "2. 建議使用冷水或低於30°C的溫水手洗，使用中性洗劑。",
+        "method3": "3. 請勿長時間浸泡，輕柔擰乾後平放晾乾。",
+        "method4": "4. 請勿使用漂白劑或螢光增白劑，避免破壞布料紋理。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 1200,
+      "price": 850,
+      "unit": "件",
+      "color": [
+        "卡其色",
+        "黑色"
+      ],
+      "num": {
+        "S": 3,
+        "M": 4,
+        "L": 5,
+        "XL": 3,
+        "2XL": 2
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "imageUrl": "https://i.meee.com.tw/6VicjqR.jpg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/o8qgArm.webp"
+      ],
+      "id": "zWss0RccOlPRlqzJ1TRAl"
+    },
+    {
+      "class": "女裝",
+      "category": "上衣",
+      "categoryItems": "休閒上衣",
+      "title": "寬版休閒連帽上衣",
+      "content": {
+        "design_style": "休閒街頭風",
+        "design_introduction": "寬版休閒連帽上衣採用柔軟舒適的棉質混紡面料，觸感親膚且保暖。寬鬆版型設計搭配落肩剪裁，展現慵懶隨性的街頭風格。連帽設計結合抽繩細節，增添層次感與實用性，無論搭配牛仔褲或運動褲都能輕鬆駕馭。",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 請將深淺色衣物分開洗滌，避免染色問題。",
+        "method2": "2. 建議使用冷水或低於30°C的溫水，搭配中性洗劑手洗或輕柔模式機洗。",
+        "method3": "3. 洗滌後輕輕擰乾，避免用力拉扯，建議平放晾乾以保持衣物版型。",
+        "method4": "4. 不建議使用漂白劑或衣物柔軟劑，以免破壞布料纖維。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 1500,
+      "price": 1050,
+      "unit": "件",
+      "color": [
+        "灰色",
+        "米白色",
+        "白色",
+        "黑色",
+        "紫色"
+      ],
+      "num": {
+        "S": 4,
+        "M": 5,
+        "L": 6,
+        "XL": 4,
+        "2XL": 3
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "imageUrl": "https://i.meee.com.tw/cfkNb12.webp",
+      "imagesUrl": [
+        "https://i.meee.com.tw/HvbINjG.webp",
+        "https://i.meee.com.tw/BSRZTVC.jpg",
+        "https://i.meee.com.tw/qASALiN.jpg",
+        "https://i.meee.com.tw/iePJqNv.jpg"
+      ],
+      "id": "EsUYPQOvAS15HMJGL5INf"
+    },
+    {
+      "class": "女裝",
+      "category": "外套",
+      "categoryItems": "夾克外套",
+      "title": "燈芯絨夾層外套",
+      "content": {
+        "design_style": "復古休閒風",
+        "design_introduction": "燈芯絨夾層外套選用高品質燈芯絨面料，觸感柔軟且保暖，內裡採用細緻刷毛材質，加強保暖效果。經典復古的短版設計搭配大口袋細節，兼具時尚感與實用性，適合秋冬日常穿搭。無論搭配長裙或牛仔褲，都能營造出率性風格。",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 建議乾洗，或使用冷水手洗，以保持布料質感。",
+        "method2": "2. 若機洗，請選擇低溫柔洗模式，並使用中性洗劑。",
+        "method3": "3. 清洗後避免用力擰乾，建議輕輕壓乾後平放晾乾。",
+        "method4": "4. 不可使用漂白劑，以免破壞燈芯絨質地，影響穿著壽命。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 2200,
+      "price": 1650,
+      "unit": "件",
+      "color": [
+        "卡其色",
+        "深藍色",
+        "咖啡色",
+        "米白色",
+        "黑色"
+      ],
+      "num": {
+        "S": 3,
+        "M": 5,
+        "L": 6,
+        "XL": 4,
+        "2XL": 2
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "imageUrl": "https://i.meee.com.tw/kndQX12.webp",
+      "imagesUrl": [
+        "https://i.meee.com.tw/BtZG4JN.webp",
+        "https://i.meee.com.tw/MQRPzVC.jpg",
+        "https://i.meee.com.tw/qHSA1iN.jpg",
+        "https://i.meee.com.tw/jEPJXNv.jpg"
+      ],
+      "id": "F0GWIyzAo1Byur2un1pim"
+    },
+    {
+      "class": "女裝",
+      "category": "外套",
+      "categoryItems": "大衣",
+      "title": "麥爾登短版連帽大衣",
+      "content": {
+        "design_style": "簡約氣質風",
+        "design_introduction": "麥爾登短版連帽大衣選用高品質麥爾登羊毛混紡面料，手感細膩且保暖性極佳。短版設計搭配俐落剪裁，展現簡約優雅的氣質，並且附有寬鬆連帽，增添時尚感與實用性。無論搭配洋裝或牛仔褲，都能輕鬆駕馭，適合秋冬通勤與日常穿搭。",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 建議乾洗，以維持羊毛面料的柔軟度與保暖效果。",
+        "method2": "2. 若需手洗，請使用冷水搭配羊毛專用洗劑，輕柔按壓清洗。",
+        "method3": "3. 洗後請避免擰乾，建議平放晾乾以防止變形。",
+        "method4": "4. 不可使用漂白劑，避免損害羊毛纖維。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 3200,
+      "price": 2350,
+      "unit": "件",
+      "color": [
+        "深灰色",
+        "米白色"
+      ],
+      "num": {
+        "S": 4,
+        "M": 5,
+        "L": 6,
+        "XL": 4,
+        "2XL": 3
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "imageUrl": "https://i.meee.com.tw/TWGE4SB.jpeg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/qmQaKbp.jpeg"
+      ],
+      "id": "_swYEmYCPX51EpkxpBCCm"
+    },
+    {
+      "class": "女裝",
+      "category": "外套",
+      "categoryItems": "針織外套",
+      "title": "針織寬鬆開襟外套",
+      "content": {
+        "design_style": "溫柔慵懶風",
+        "design_introduction": "針織寬鬆開襟外套採用柔軟親膚的針織面料，觸感細膩且保暖性佳。寬鬆版型設計讓穿著更加舒適自在，適合各種身形。開襟設計方便搭配不同內搭，展現層次感，無論是日常休閒還是辦公室穿搭，都能輕鬆駕馭。",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 建議手洗或使用洗衣袋低速機洗，以保護針織纖維。",
+        "method2": "2. 請使用冷水或低於30°C的溫水，搭配中性洗劑清洗。",
+        "method3": "3. 洗後請勿擰乾，輕輕按壓去除多餘水分，平放晾乾以防變形。",
+        "method4": "4. 避免使用漂白劑或柔軟劑，以維持針織材質的柔軟度。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 1800,
+      "price": 1290,
+      "unit": "件",
+      "color": [
+        "米白色",
+        "綠色"
+      ],
+      "num": {
+        "S": 5,
+        "M": 6,
+        "L": 7,
+        "XL": 5,
+        "2XL": 4
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "imageUrl": "https://i.meee.com.tw/jC31YXi.jpg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/1t867Jq.jpg"
+      ],
+      "id": "n4RyzEcc3mEu3bQ6G-6al"
+    },
+    {
+      "class": "女裝",
+      "category": "外套",
+      "categoryItems": "夾克外套",
+      "title": "仿皮外套",
+      "content": {
+        "design_style": "個性帥氣風",
+        "design_introduction": "仿皮外套採用高品質PU皮革材質，柔軟耐穿，兼具時尚與舒適度。短版修身剪裁勾勒出俐落線條，搭配經典翻領與金屬拉鍊設計，增添率性帥氣風格。適合搭配牛仔褲、短裙或長靴，展現個性時尚魅力。",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 建議使用濕布擦拭污漬，避免機洗或手洗，以維持皮革質感。",
+        "method2": "2. 若需深度清潔，可使用專業皮革清潔劑，並用乾布擦拭。",
+        "method3": "3. 請勿使用漂白劑或柔軟劑，以免損壞皮革表面。",
+        "method4": "4. 存放時避免長時間暴露於陽光下，以防止皮革硬化或變色。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 2200,
+      "price": 1580,
+      "unit": "件",
+      "color": [
+        "黑色",
+        "棕色"
+      ],
+      "num": {
+        "S": 3,
+        "M": 4,
+        "L": 5,
+        "XL": 4,
+        "2XL": 3
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "imageUrl": "https://i.meee.com.tw/kdKkAeV.jpg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/rvRNUvy.jpg"
+      ],
+      "id": "8ESG_Pue7iCB9pxhxFMCs"
+    },
+    {
+      "class": "女裝",
+      "category": "外套",
+      "categoryItems": "西裝外套",
+      "title": "可機洗西裝外套",
+      "content": {
+        "design_style": "簡約通勤風",
+        "design_introduction": "可機洗西裝外套選用抗皺且易打理的混紡面料，適合日常與通勤穿搭。版型俐落修身，搭配簡約單排釦設計，展現幹練氣質。可直接機洗，減少保養成本，是兼具時尚與實用性的必備單品。",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 可放入洗衣袋後以冷水或低溫（不超過30°C）機洗，選擇輕柔模式。",
+        "method2": "2. 使用中性洗劑，避免含有漂白成分的洗劑。",
+        "method3": "3. 洗滌後輕輕甩乾，避免過度擰絞，建議懸掛晾乾以保持版型。",
+        "method4": "4. 若需熨燙，請使用低溫熨燙，或使用掛燙機整理衣物。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 1280,
+      "price": 900,
+      "unit": "件",
+      "color": [
+        "黑色",
+        "灰色"
+      ],
+      "num": {
+        "S": 5,
+        "M": 6,
+        "L": 5,
+        "XL": 4,
+        "2XL": 3
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "imageUrl": "https://i.meee.com.tw/9UnOetq.jpg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/oJv7lFk.jpg"
+      ],
+      "id": "DCk3vPiyfAvjIAbBcfh3J"
+    }
+  ],
   "orders": [],
   "carts": [],
   "favorites": [],
