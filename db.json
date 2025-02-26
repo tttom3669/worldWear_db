@@ -639,7 +639,811 @@
         "https://i.meee.com.tw/oJv7lFk.jpg"
       ],
       "id": "DCk3vPiyfAvjIAbBcfh3J"
-    }
+    },
+    {
+      "id": "-xsx3bpsgV9YZHFa0ItWb",
+      "class": "女裝",
+      "category": "洋裝",
+      "categoryItems": "洋裝",
+      "title": "涼感雪紡細肩帶長洋裝",
+      "content": {
+        "design_style": "約會穿搭",
+        "design_Introduction": "涼感雪紡細肩帶長洋裝是一款夏季必備的輕盈服飾，選用透氣舒適的雪紡面料，具有優良的涼感效果，適合炎熱天氣穿著。這款洋裝設計簡約大方，搭配細肩帶，展現出輕盈的女性魅力，能夠讓肌膚自由呼吸，保持清爽。",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 深淺色請分開洗滌，以避免造成互相移染。",
+        "method2": "2. 請在冷水或溫水(低於30°C)中洗滌，並請使用中性洗劑，請勿浸泡。",
+        "method3": "3. 避免過度脫水，以減少衣物變形或損壞，適中脫水即可。",
+        "method4": "4. 請勿使用漂白劑、螢光增白劑及衣物柔軟劑，以免破壞布料。"
+      },
+      "is_enabled": 1,
+      "status": "預購",
+      "is_hot": 0,
+      "origin_price": 1000,
+      "price": 700,
+      "unit": "件",
+      "color": ["黃色","藍色","水藍色","白色","米色"],
+      "num": {
+          "黃色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "藍色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "水藍色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "白色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "米色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          }
+      },
+      "size": ["S","M","L","XL","2XL"],
+      "productSizeRef": "模特圖片網址",
+      "imageUrl": "https://i.meee.com.tw/m6XF4bA.jpg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/DY60RKZ.jpg",
+        "https://i.meee.com.tw/rmsAiOv.jpg",
+        "https://i.meee.com.tw/rmLE2j2.jpg",
+        "https://i.meee.com.tw/duZ4KFy.jpg"
+      ]
+  },
+  {
+      "id": "VEPKgmrDh0lRZZDT2cxoc",
+      "class": "女裝",
+      "category": "裙子",
+      "categoryItems": "短裙",
+      "title": "棉質高腰魚尾短裙",
+      "content": {
+        "design_style": "休閒、約會穿搭",
+        "design_Introduction": "這款棉質高腰魚尾短裙採用柔軟透氣面料，高腰剪裁修飾腰線，魚尾設計展現優雅曲線，兼具時尚與舒適感，適合日常、約會或休閒穿搭，輕鬆打造迷人造型。",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 深淺色請分開洗滌，以避免造成互相移染。",
+        "method2": "2. 請在冷水或溫水(低於30°C)中洗滌，並請使用中性洗劑，請勿浸泡。",
+        "method3": "3. 避免過度脫水，以減少衣物變形或損壞，適中脫水即可。",
+        "method4": "4. 請勿使用漂白劑、螢光增白劑及衣物柔軟劑，以免破壞布料。"
+      },
+      "is_enabled": 1,
+      "status": "預購",
+      "is_hot": 0,
+      "origin_price": 1500,
+      "price": 900,
+      "unit": "件",
+      "color": ["紅色","黃色","藍色","黑色","白色"],
+      "num": {
+          "紅色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "黃色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "藍色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "黑色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "白色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          }
+      },
+      "size": ["S","M","L","XL","2XL"],
+      "productSizeRef": "模特圖片網址",
+      "imageUrl": "https://i.meee.com.tw/7bVVGRA.jpg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/G7Dt3oA.jpg",
+        "https://i.meee.com.tw/iUjrY30.jpg",
+        "https://i.meee.com.tw/c2CHS39.jpg",
+        "https://i.meee.com.tw/4RIBvN6.jpg"
+      ]
+  },
+  {
+      "id": "fDmIGpPjBkaP64rsEBTlb",
+      "class": "女裝",
+      "category": "洋裝",
+      "categoryItems": "長洋裝",
+      "title": "素色蕾絲長袖長洋裝",
+      "content": {
+        "design_style": "適合婚禮賓客穿搭、約會出遊穿搭、派對聚餐穿搭",
+        "design_Introduction": "淡雅透膚雪紡拼接，加入蕾絲花邊點綴，為若隱若現的微性感曲線增添些許柔美氣息。",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 深淺色請分開洗滌，以避免造成互相移染。",
+        "method2": "2. 請在冷水或溫水(低於30°C)中洗滌，並請使用中性洗劑，請勿浸泡。",
+        "method3": "3. 避免過度脫水，以減少衣物變形或損壞，適中脫水即可。",
+        "method4": "4. 請勿使用漂白劑、螢光增白劑及衣物柔軟劑，以免破壞布料。"
+      },
+      "is_enabled": 1,
+      "status": "預購",
+      "is_hot": 0,
+      "origin_price": 1680,
+      "price": 1200,
+      "unit": "件",
+      "color": ["藏青色","黑色","白色","紅色","粉紅色"],
+      "num": {
+          "藏青色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "黑色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "白色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "紅色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "粉紅色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          }
+      },
+      "size": ["S","M","L","XL","2XL"],
+      "productSizeRef": "模特圖片網址",
+      "imageUrl": "https://i.meee.com.tw/QRqrjUo.jpg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/QdnO4ac.jpg",
+        "https://i.meee.com.tw/hccWXaw.jpg",
+        "https://i.meee.com.tw/zniIf0d.jpg",
+        "https://i.meee.com.tw/jxdauQI.jpg"
+      ]
+  },
+  {
+      "id": "738I0_bQ_cR16rCxxxs_r",
+      "class": "女裝",
+      "category": "洋裝",
+      "categoryItems": "長洋裝",
+      "title": "不易皺涼爽雪紡長洋裝",
+      "content": {
+        "design_style": "適合甜蜜約會穿搭、朋友聚會穿搭",
+        "design_Introduction": "細緻輕柔的雪紡面料穿著舒適，具有柔美的飄逸垂墜度。",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 深淺色請分開洗滌，以避免造成互相移染。",
+        "method2": "2. 請在冷水或溫水(低於30°C)中洗滌，並請使用中性洗劑，請勿浸泡。",
+        "method3": "3. 避免過度脫水，以減少衣物變形或損壞，適中脫水即可。",
+        "method4": "4. 請勿使用漂白劑、螢光增白劑及衣物柔軟劑，以免破壞布料。"
+      },
+      "is_enabled": 1,
+      "status": "預購",
+      "is_hot": 0,
+      "origin_price": 790,
+      "price": 700,
+      "unit": "件",
+      "color": ["天藍色","紅色","紫色","藏青色","米色"],
+      "num": {
+          "天藍色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "紅色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "紫色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "藏青色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "米色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          }
+      },
+      "size": ["S","M","L","XL","2XL"],
+      "productSizeRef": "模特圖片網址",
+      "imageUrl": "https://i.meee.com.tw/Pon1M3m.jpg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/ik7xXib.jpg",
+        "https://i.meee.com.tw/Vq4Av3j.jpg",
+        "https://i.meee.com.tw/yVklf5l.jpg",
+        "https://i.meee.com.tw/wXiVeT8.jpg"
+      ]
+  },
+  {
+      "id": "jMdi5uvESF5nBX6B1__6E",
+      "class": "女裝",
+      "category": "裙子",
+      "categoryItems": "牛仔裙",
+      "title": "棉質鬆緊腰牛仔短裙",
+      "content": {
+        "design_style": "適合出遊穿搭、休閒穿搭",
+        "design_Introduction": "選用親膚棉質牛仔面料，穿著舒適透氣",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 深淺色請分開洗滌，以避免造成互相移染。",
+        "method2": "2. 請在冷水或溫水(低於30°C)中洗滌，並請使用中性洗劑，請勿浸泡。",
+        "method3": "3. 避免過度脫水，以減少衣物變形或損壞，適中脫水即可。",
+        "method4": "4. 請勿使用漂白劑、螢光增白劑及衣物柔軟劑，以免破壞布料。"
+      },
+      "is_enabled": 1,
+      "status": "預購",
+      "is_hot": 0,
+      "origin_price": 490,
+      "price": 450,
+      "unit": "件",
+      "color": ["黃色","天藍色","藏青色","白色","黑色"],
+      "num": {
+          "黃色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "天藍色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "藏青色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "白色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "黑色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          }
+      },
+      "size": ["S","M","L","XL","2XL"],
+      "productSizeRef": "模特圖片網址",
+      "imageUrl": "https://i.meee.com.tw/Z8jTG9a.jpg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/5an49cL.jpg",
+        "https://i.meee.com.tw/ZRbuApr.jpg",
+        "https://i.meee.com.tw/py82DqP.jpg",
+        "https://i.meee.com.tw/ZRbuApr.jpg"
+      ]
+  },
+  {
+      "id": "scwLz-9AiAIQzVqjwWun5",
+      "class": "女裝",
+      "category": "洋裝",
+      "categoryItems": "連衣裙",
+      "title": "細肩帶碎花連衣裙",
+      "content": {
+        "design_style": "適合約會出遊穿搭",
+        "design_Introduction": "面料質地柔順輕盈",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 深淺色請分開洗滌，以避免造成互相移染。",
+        "method2": "2. 請在冷水或溫水(低於30°C)中洗滌，並請使用中性洗劑，請勿浸泡。",
+        "method3": "3. 避免過度脫水，以減少衣物變形或損壞，適中脫水即可。",
+        "method4": "4. 請勿使用漂白劑、螢光增白劑及衣物柔軟劑，以免破壞布料。"
+      },
+      "is_enabled": 1,
+      "status": "預購",
+      "is_hot": 0,
+      "origin_price": 890,
+      "price": 850,
+      "unit": "件",
+      "color": ["黃色","白色","寶藍色","水藍色","米色"],
+      "num": {
+          "黃色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "白色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "寶藍色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "水藍色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "米色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          }
+      },
+      "size": ["S","M","L","XL","2XL"],
+      "productSizeRef": "模特圖片網址",
+      "imageUrl": "https://i.meee.com.tw/Axu686e.jpg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/TQ2ENRP.jpg",
+        "https://i.meee.com.tw/TaZM4D8.jpg",
+        "https://i.meee.com.tw/CzJtXJJ.jpg",
+        "https://i.meee.com.tw/dBSw1HY.jpg"
+      ]
+  },
+  {
+      "id": "D8av76V1lVbbOKLrkCAaA",
+      "class": "女裝",
+      "category": "裙子",
+      "categoryItems": "短裙",
+      "title": "皮革短裙",
+      "content": {
+        "design_style": "適合戶外休閒穿搭、上班穿搭、派對穿搭",
+        "design_Introduction": "細膩柔軟皮革面料",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 深淺色請分開洗滌，以避免造成互相移染。",
+        "method2": "2. 請在冷水或溫水(低於30°C)中洗滌，並請使用中性洗劑，請勿浸泡。",
+        "method3": "3. 避免過度脫水，以減少衣物變形或損壞，適中脫水即可。",
+        "method4": "4. 請勿使用漂白劑、螢光增白劑及衣物柔軟劑，以免破壞布料。"
+      },
+      "is_enabled": 1,
+      "status": "預購",
+      "is_hot": 0,
+      "origin_price": 590,
+      "price": 550,
+      "unit": "件",
+      "color": ["黑色","米色","咖啡色","酒紅色"],
+      "num": {
+          "黑色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "米色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "咖啡色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "酒紅色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          }
+      },
+      "size": ["S","M","L","XL","2XL"],
+      "productSizeRef": "模特圖片網址",
+      "imageUrl": "https://i.meee.com.tw/BRRSwxk.jpg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/7RTtcVf.jpg",
+        "https://i.meee.com.tw/wq1io9O.jpg",
+        "https://i.meee.com.tw/IfwEzyY.jpg"
+      ]
+  },
+  {
+      "id": "G5mN_LtwbB9W4nrqEsdvF",
+      "class": "女裝",
+      "category": "裙子",
+      "categoryItems": "牛仔裙",
+      "title": "高含棉抽鬚牛仔短裙",
+      "content": {
+        "design_style": "適合休閒穿搭",
+        "design_Introduction": "採用親膚透氣高含棉水洗牛仔布料，舒適穿著久穿不悶熱",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 深淺色請分開洗滌，以避免造成互相移染。",
+        "method2": "2. 請在冷水或溫水(低於30°C)中洗滌，並請使用中性洗劑，請勿浸泡。",
+        "method3": "3. 避免過度脫水，以減少衣物變形或損壞，適中脫水即可。",
+        "method4": "4. 請勿使用漂白劑、螢光增白劑及衣物柔軟劑，以免破壞布料。"
+      },
+      "is_enabled": 1,
+      "status": "預購",
+      "is_hot": 0,
+      "origin_price": 590,
+      "price": 540,
+      "unit": "件",
+      "color": ["白色","黑色","紅色","粉紅色"],
+      "num": {
+          "白色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "黑色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "紅色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "粉紅色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          }
+      },
+      "size": ["S","M","L","XL","2XL"],
+      "productSizeRef": "模特圖片網址",
+      "imageUrl": "https://i.meee.com.tw/KrvRtkj.jpg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/4KrLrVh.jpg",
+        "https://i.meee.com.tw/3KvGWoA.jpg",
+        "https://i.meee.com.tw/6MtzkTw.jpg"
+      ]
+  },
+  {
+      "id": "x0eUUKrY3ErQznKY3E7NX",
+      "class": "男裝",
+      "category": "外套",
+      "categoryItems": "休閒外套",
+      "title": "簡約版型休閒外套",
+      "content": {
+        "design_style": "適合休閒穿搭",
+        "design_Introduction": "簡約版型防風防寒，最適合個性型男穿搭",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 深淺色請分開洗滌，以避免造成互相移染。",
+        "method2": "2. 請在冷水或溫水(低於30°C)中洗滌，並請使用中性洗劑，請勿浸泡。",
+        "method3": "3. 避免過度脫水，以減少衣物變形或損壞，適中脫水即可。",
+        "method4": "4. 請勿使用漂白劑、螢光增白劑及衣物柔軟劑，以免破壞布料。"
+      },
+      "is_enabled": 1,
+      "status": "預購",
+      "is_hot": 0,
+      "origin_price": 690,
+      "price": 598,
+      "unit": "件",
+      "color": ["米色","灰色","咖啡色","紅色"],
+      "num": {
+          "米色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "灰色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "咖啡色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "紅色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          }
+      },
+      "size": ["S","M","L","XL","2XL"],
+      "productSizeRef": "模特圖片網址",
+      "imageUrl": "https://i.meee.com.tw/99FhUb4.jpg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/ChFcVGZ.jpg",
+        "https://i.meee.com.tw/BfRNFLK.jpg",
+        "https://i.meee.com.tw/DRVS0CE.jpg"
+      ]
+  },
+  {
+      "id": "5C3VfoKPmJm_Uy5ODk0Ub",
+      "class": "男裝",
+      "category": "外套",
+      "categoryItems": "夾克",
+      "title": "兜帽飛行員夾克",
+      "content": {
+        "design_style": "適合休閒穿搭",
+        "design_Introduction": "潮流個性帥氣亮面夾克",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 深淺色請分開洗滌，以避免造成互相移染。",
+        "method2": "2. 請在冷水或溫水(低於30°C)中洗滌，並請使用中性洗劑，請勿浸泡。",
+        "method3": "3. 避免過度脫水，以減少衣物變形或損壞，適中脫水即可。",
+        "method4": "4. 請勿使用漂白劑、螢光增白劑及衣物柔軟劑，以免破壞布料。"
+      },
+      "is_enabled": 1,
+      "status": "預購",
+      "is_hot": 0,
+      "origin_price": 1699,
+      "price": 1599,
+      "unit": "件",
+      "color": ["紅色","黑色","咖啡色","紫色"],
+      "num": {
+          "紅色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "黑色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "咖啡色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "紫色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          }
+      },
+      "size": ["S","M","L","XL","2XL"],
+      "productSizeRef": "模特圖片網址",
+      "imageUrl": "https://i.meee.com.tw/PBQQKxx.jpg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/5teJ5eN.jpg",
+        "https://i.meee.com.tw/OYfNG8n.jpg",
+        "https://i.meee.com.tw/QOq61Wo.jpg"
+      ]
+  },
+  {
+      "id": "DZw_L13jGSDNKTv0pBFlJ",
+      "class": "男裝",
+      "category": "外套",
+      "CategoryItems": "長版外套",
+      "title": "長版外套",
+      "content": {
+        "design_style": "適合約會穿搭",
+        "design_Introduction": "時尚型男風格",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 深淺色請分開洗滌，以避免造成互相移染。",
+        "method2": "2. 請在冷水或溫水(低於30°C)中洗滌，並請使用中性洗劑，請勿浸泡。",
+        "method3": "3. 避免過度脫水，以減少衣物變形或損壞，適中脫水即可。",
+        "method4": "4. 請勿使用漂白劑、螢光增白劑及衣物柔軟劑，以免破壞布料。"
+      },
+      "is_enabled": 1,
+      "status": "預購",
+      "is_hot": 0,
+      "origin_price": 2500,
+      "price": 2250,
+      "unit": "件",
+      "color": ["黑色","咖啡色","灰色","藏青色"],
+      "num": {
+          "黑色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "咖啡色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "灰色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "藏青色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          }
+      },
+      "size": ["S","M","L","XL","2XL"],
+      "productSizeRef": "模特圖片網址",
+      "imageUrl": "https://i.meee.com.tw/IFM230L.jpg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/NLMiGjF.jpg",
+        "https://i.meee.com.tw/LJqiw59.jpg",
+        "https://i.meee.com.tw/G8kOqno.jpg"
+      ]
+  },
+  {
+      "id": "6tZFToeZ58-DQ9R_OM-kp",
+      "class": "男裝",
+      "category": "外套",
+      "categoryItems": "西裝外套",
+      "title": "修身西裝外套",
+      "content": {
+        "design_style": "適合商務穿搭",
+        "design_Introduction": "基本款商務西裝外套，給予沉穩內斂形象",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 深淺色請分開洗滌，以避免造成互相移染。",
+        "method2": "2. 請在冷水或溫水(低於30°C)中洗滌，並請使用中性洗劑，請勿浸泡。",
+        "method3": "3. 避免過度脫水，以減少衣物變形或損壞，適中脫水即可。",
+        "method4": "4. 請勿使用漂白劑、螢光增白劑及衣物柔軟劑，以免破壞布料。"
+      },
+      "is_enabled": 1,
+      "status": "預購",
+      "is_hot": 0,
+      "origin_price": 4950,
+      "price": 4800,
+      "unit": "件",
+      "color": ["藏青色","淺灰色","深灰色","銀色"],
+      "num": {
+          "藏青色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "淺灰色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "深灰色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          },
+          "銀色":{
+              "S":15,
+              "M":15,
+              "L":20,
+              "XL":30,
+              "2XL":20
+          }
+      },
+      "size": ["S","M","L","XL","2XL"],
+      "productSizeRef": "模特圖片網址",
+      "imageUrl": "https://i.meee.com.tw/j4sd756.jpg",
+      "imagesUrl": [
+        "https://i.meee.com.tw/dq8RjJs.jpg",
+        "https://i.meee.com.tw/kwHSrMa.jpg",
+        "https://i.meee.com.tw/PaADIYw.jpg"
+      ]
+  }
   ],
   "orders": [],
   "carts": [],
