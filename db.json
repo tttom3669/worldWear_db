@@ -358,10 +358,7 @@
       "unit": "件",
       "color": [
         "卡其色",
-        "深藍色",
-        "咖啡色",
-        "米白色",
-        "黑色"
+        "米白色"
       ],
       "num": {
         "卡其色": {
@@ -371,28 +368,7 @@
           "XL": 4,
           "2XL": 2
         },
-        "深藍色": {
-          "S": 3,
-          "M": 5,
-          "L": 6,
-          "XL": 4,
-          "2XL": 2
-        },
-        "咖啡色": {
-          "S": 3,
-          "M": 5,
-          "L": 6,
-          "XL": 4,
-          "2XL": 2
-        },
         "米白色": {
-          "S": 3,
-          "M": 5,
-          "L": 6,
-          "XL": 4,
-          "2XL": 2
-        },
-        "黑色": {
           "S": 3,
           "M": 5,
           "L": 6,
@@ -407,12 +383,9 @@
         "XL",
         "2XL"
       ],
-      "imageUrl": "https://i.meee.com.tw/kndQX12.webp",
+      "imageUrl": "https://i.meee.com.tw/3PA84Vz.jpg",
       "imagesUrl": [
-        "https://i.meee.com.tw/BtZG4JN.webp",
-        "https://i.meee.com.tw/MQRPzVC.jpg",
-        "https://i.meee.com.tw/qHSA1iN.jpg",
-        "https://i.meee.com.tw/jEPJXNv.jpg"
+        "https://i.meee.com.tw/z1bsG3Y.jpg"
       ],
       "id": "F0GWIyzAo1Byur2un1pim"
     },
