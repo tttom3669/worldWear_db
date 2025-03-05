@@ -1911,7 +1911,28 @@
     }
   ],
   "orders": [],
-  "carts": [],
+  "carts": [
+    {
+      "id": "-OKZjeqraXf0_aL5i1dz",
+      "userId": "pqyfZ3sGxjTKmTSjmCAKa",
+      "qty": 5,
+      "color": "紅色",
+      "size": "M",
+      "total": 4250,
+      "final_total": 4250,
+      "productId": "knI4tV8qNwNbSpb-wZAVO"
+    },
+    {
+      "id": "-OKZjeqraXf0_aL5i1dz",
+      "userId": "pqyfZ3sGxjTKmTSjmCAKa",
+      "qty": 2,
+      "color": "軍綠色",
+      "size": "L",
+      "total": 1300,
+      "final_total": 1300,
+      "productId": "pbY_XkJN0HMGBFZZS8R3-"
+    }
+  ],
   "favorites": [],
   "coupons": []
 }
