@@ -1908,6 +1908,356 @@
         "https://i.meee.com.tw/W7zXe3B.jpg"
       ],
       "id": "pbY_XkJN0HMGBFZZS8R3-"
+    },
+    {
+      "class": "男裝",
+      "category": "T-Shirt",
+      "categoryItems": "長袖",
+      "title": "純色圓領長袖上衣",
+      "content": {
+        "design_style": "簡約百搭",
+        "design_introduction": "純色圓領長袖上衣採用柔軟親膚的面料，透氣舒適，適合日常穿搭。寬鬆版型設計，提供舒適的穿著體驗，無論是單穿或作為內搭皆適合。簡約設計展現低調時尚感，適合各種場合。",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 建議手洗或使用洗衣袋低速機洗，以保持布料柔軟。",
+        "method2": "2. 請使用冷水或低於30°C的溫水，搭配中性洗劑清洗。",
+        "method3": "3. 洗後請勿用力擰乾，建議輕壓去除多餘水分後陰乾。",
+        "method4": "4. 避免使用漂白劑或柔軟劑，以維持布料的耐用度。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 1200,
+      "price": 890,
+      "unit": "件",
+      "color": [
+        "深灰色"
+      ],
+      "num": {
+        "深灰色": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5,
+          "2XL": 4
+        }
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "imageUrl": "https://meee.com.tw/aOENpgB",
+      "imagesUrl": [
+        "https://meee.com.tw/OSpgjxx",
+        "https://meee.com.tw/q6PWqGz"
+      ],
+      "id": "F7x7Gz9YUCCgqE8Lqlxok"
+    },
+    {
+      "class": "男裝",
+      "category": "T-Shirt",
+      "categoryItems": "長袖",
+      "title": "字母印花圓領長袖上衣",
+      "content": {
+        "design_style": "潮流休閒風",
+        "design_introduction": "字母印花圓領長袖上衣採用舒適柔軟的棉質面料，親膚透氣，適合日常穿搭。寬鬆版型提供舒適自在的穿著體驗，字母印花設計增添街頭潮流感，適合各種風格搭配，輕鬆打造個性造型。",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 建議手洗或使用洗衣袋低速機洗，以保護印花圖案。",
+        "method2": "2. 請使用冷水或低於30°C的溫水，搭配中性洗劑清洗。",
+        "method3": "3. 洗後請勿用力擰乾，輕壓去除多餘水分後陰乾。",
+        "method4": "4. 避免使用漂白劑或柔軟劑，以維持布料與印花的耐久性。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 1400,
+      "price": 990,
+      "unit": "件",
+      "color": [
+        "米白色"
+      ],
+      "num": {
+        "米白色": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5,
+          "2XL": 4
+        }
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "imageUrl": "https://meee.com.tw/fkKwGTE",
+      "imagesUrl": [
+        ""
+      ],
+      "id": "uTYfqhna55u3xwodWvb3T"
+    },
+    {
+      "class": "男裝",
+      "category": "T-Shirt",
+      "categoryItems": "短袖",
+      "title": "撞色拼接短袖T恤",
+      "content": {
+        "design_style": "運動休閒風",
+        "design_introduction": "撞色拼接短袖T恤採用輕盈透氣的棉質面料，提供舒適穿著體驗。經典棒球T設計，對比色拼接增添活力與運動感。適合日常休閒、戶外活動或運動穿搭，簡約時尚，展現年輕風格。",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 建議使用冷水手洗或低速機洗，以維護布料質感。",
+        "method2": "2. 請使用中性洗劑，避免強力洗滌劑影響顏色。",
+        "method3": "3. 洗後輕輕按壓去除水分，避免用力擰乾。",
+        "method4": "4. 建議陰乾，避免長時間曝曬導致褪色。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 800,
+      "price": 590,
+      "unit": "件",
+      "color": [
+        "酒紅拼白",
+        "深藍拼白"
+      ],
+      "num": {
+        "酒紅拼白": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5,
+          "2XL": 4
+        },
+        "深藍拼白": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5,
+          "2XL": 4
+        }
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "imageUrl": "https://meee.com.tw/Bkiqic3",
+      "imagesUrl": [
+        "https://meee.com.tw/CS4KeGs",
+        "https://meee.com.tw/aKa4xXp",
+        "https://meee.com.tw/lE60pWq"
+      ],
+      "id": "HDcQP9PtW1AHu1s4h9cY9"
+    },
+    {
+      "class": "男裝",
+      "category": "T-Shirt",
+      "categoryItems": "短袖",
+      "title": "寬條紋短袖T恤",
+      "content": {
+        "design_style": "休閒簡約風",
+        "design_introduction": "寬條紋短袖T恤採用輕盈透氣的棉質面料，提供舒適的穿著體驗。寬鬆版型設計，適合各種身形，搭配經典條紋圖案，增添休閒風格。簡約配色百搭，不論是單穿或作為內搭都能展現時尚感。",
+        "origin": "中國"
+      },
+      "clean": {
+        "method1": "1. 建議使用冷水手洗或低速機洗，以維護布料質感。",
+        "method2": "2. 請使用中性洗劑，避免強力洗滌劑影響顏色。",
+        "method3": "3. 洗後輕輕按壓去除水分，避免用力擰乾。",
+        "method4": "4. 建議陰乾，避免長時間曝曬導致褪色。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 900,
+      "price": 690,
+      "unit": "件",
+      "color": [
+        "卡其條紋",
+        "深藍條紋",
+        "黑白條紋"
+      ],
+      "num": {
+        "卡其條紋": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5,
+          "2XL": 4
+        },
+        "深藍條紋": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5,
+          "2XL": 4
+        },
+        "黑白條紋": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5,
+          "2XL": 4
+        }
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "imageUrl": "https://meee.com.tw/RyXIVsi",
+      "imagesUrl": [
+        "https://meee.com.tw/P7Old2V",
+        "https://meee.com.tw/H4w51rC"
+      ],
+      "id": "4hWPIQLJtHF3fW7QL2hyJ"
+    },
+    {
+      "class": "男裝",
+      "category": "外套",
+      "categoryItems": "機能外套",
+      "title": "防風防潑水連帽機能外套",
+      "content": {
+        "design_style": "運動機能風",
+        "design_introduction": "防風防潑水連帽機能外套採用高密度尼龍面料，具有良好的防風與輕量防潑水功能，適合日常通勤與戶外活動。立體剪裁設計提升運動靈活性，搭配彈性袖口與可調式連帽設計，增強保暖性與舒適度。簡約百搭，無論休閒或運動皆適合。",
+        "origin": "韓國"
+      },
+      "clean": {
+        "method1": "1. 建議使用冷水手洗或低溫機洗，以維持防潑水性能。",
+        "method2": "2. 請使用中性洗劑，避免強效洗滌劑影響布料功能。",
+        "method3": "3. 洗後請自然晾乾，避免高溫烘乾導致材質受損。",
+        "method4": "4. 請勿熨燙或使用漂白劑，以確保機能布料的耐用性。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 3200,
+      "price": 2490,
+      "unit": "件",
+      "color": [
+        "淺灰色",
+        "深藍色",
+        "黑色"
+      ],
+      "num": {
+        "淺灰色": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5,
+          "2XL": 4
+        },
+        "深藍色": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5,
+          "2XL": 4
+        },
+        "淺綠色": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5,
+          "2XL": 4
+        }
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "imageUrl": "https://meee.com.tw/UTROO4V",
+      "imagesUrl": [
+        "https://meee.com.tw/gDMaJBu",
+        "https://meee.com.tw/mOWJxJj"
+      ],
+      "id": "EXbIzMYsluJDlbsKlWpE8"
+    },
+    {
+      "class": "男裝",
+      "category": "外套",
+      "categoryItems": "連帽外套",
+      "title": "加絨保暖連帽外套",
+      "content": {
+        "design_style": "休閒保暖風",
+        "design_introduction": "加絨保暖連帽外套採用高品質加厚絨毛內裡，提供極佳的保暖效果，適合秋冬穿搭。外層選用耐磨面料，防風抗寒，提升穿著舒適度。經典拉鍊開襟設計，搭配雙側口袋與連帽抽繩，兼具實用與時尚感，是冬季不可或缺的單品。",
+        "origin": "韓國"
+      },
+      "clean": {
+        "method1": "1. 建議手洗或低溫機洗，以保護絨毛內裡。",
+        "method2": "2. 使用冷水或低於30°C的溫水搭配中性洗劑清洗。",
+        "method3": "3. 洗後請自然晾乾，避免烘乾機高溫縮水。",
+        "method4": "4. 請勿使用漂白劑，以維持布料與內裡的耐用性。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 2800,
+      "price": 2190,
+      "unit": "件",
+      "color": [
+        "深灰色",
+        "海軍藍",
+        "黑色"
+      ],
+      "num": {
+        "深灰色": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5,
+          "2XL": 4
+        },
+        "海軍藍": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5,
+          "2XL": 4
+        },
+        "黑色": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5,
+          "2XL": 4
+        }
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "imageUrl": "https://meee.com.tw/6XI4VLZ",
+      "imagesUrl": [
+        "https://meee.com.tw/01FEUEq",
+        "https://meee.com.tw/jinw7pj"
+      ],
+      "id": "l1b1ih6LpN-JAqN_GaU83"
     }
   ],
   "orders": [],
