@@ -2258,6 +2258,756 @@
         "https://meee.com.tw/jinw7pj"
       ],
       "id": "l1b1ih6LpN-JAqN_GaU83"
+    },
+    {
+      "class": "女裝",
+      "category": "褲子",
+      "categoryItems": "短褲",
+      "title": "高腰抽繩休閒短褲",
+      "content": {
+        "design_style": "簡約休閒風",
+        "design_introduction": "高腰抽繩休閒短褲採用輕盈透氣的聚酯纖維面料，舒適親膚，適合日常穿搭與戶外活動。寬鬆剪裁提供極佳的活動空間，高腰設計搭配可調式抽繩腰帶，增添穿著的靈活性與時尚感。無論搭配T恤或襯衫，都能打造輕鬆自在的造型。",
+        "origin": "韓國"
+      },
+      "clean": {
+        "method1": "1. 建議使用冷水手洗或低速機洗，以保持布料柔軟度。",
+        "method2": "2. 使用中性洗劑，避免強效洗滌劑影響顏色。",
+        "method3": "3. 洗後請輕壓去除水分，避免用力擰乾。",
+        "method4": "4. 建議陰乾，避免長時間曝曬導致褪色與變形。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 900,
+      "price": 690,
+      "unit": "件",
+      "color": [
+        "米色",
+        "卡其色",
+        "深灰色"
+      ],
+      "num": {
+        "米色": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5
+        },
+        "卡其色": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5
+        },
+        "深灰色": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5
+        }
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "imageUrl": "https://meee.com.tw/YmTKYcY",
+      "imagesUrl": [
+        ""
+      ],
+      "id": "YhxvBciEtN98SC-DIOv0W"
+    },
+    {
+      "class": "女裝",
+      "category": "褲子",
+      "categoryItems": "短褲",
+      "title": "高腰彈力休閒短褲",
+      "content": {
+        "design_style": "休閒簡約風",
+        "design_introduction": "高腰彈力休閒短褲採用輕盈透氣的聚酯纖維面料，舒適親膚，適合日常穿搭與戶外活動。寬鬆剪裁提供極佳的活動空間，彈性腰圍設計提升穿著的靈活性與舒適度，搭配雙側口袋，兼具實用與時尚感。",
+        "origin": "韓國"
+      },
+      "clean": {
+        "method1": "1. 建議使用冷水手洗或低速機洗，以保持布料柔軟度。",
+        "method2": "2. 使用中性洗劑，避免強效洗滌劑影響顏色。",
+        "method3": "3. 洗後請輕壓去除水分，避免用力擰乾。",
+        "method4": "4. 建議陰乾，避免長時間曝曬導致褪色與變形。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 950,
+      "price": 720,
+      "unit": "件",
+      "color": [
+        "淺粉色",
+        "米色",
+        "灰紫色"
+      ],
+      "num": {
+        "淺粉色": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5
+        },
+        "米色": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5
+        },
+        "灰紫色": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5
+        }
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "imageUrl": "https://meee.com.tw/OXJdPDG",
+      "imagesUrl": [
+        ""
+      ],
+      "id": "8LEyCYFi74jRQwY7vfiy-"
+    },
+    {
+      "class": "女裝",
+      "category": "褲子",
+      "categoryItems": "褲裙",
+      "title": "復古高腰格紋褲裙",
+      "content": {
+        "design_style": "復古優雅風",
+        "design_introduction": "復古高腰格紋褲裙採用高品質混紡面料，舒適透氣，展現優雅復古的氛圍。高腰設計修飾身形，A字版型營造修長腿部線條。前側設計斜排大釦點綴，增添復古細節感，無論是日常穿搭還是正式場合皆適合。",
+        "origin": "韓國"
+      },
+      "clean": {
+        "method1": "1. 建議使用冷水手洗或低溫機洗，以維持布料質感。",
+        "method2": "2. 使用中性洗劑，避免強效洗滌劑影響顏色與紋理。",
+        "method3": "3. 洗後請輕壓去除水分，避免用力擰乾。",
+        "method4": "4. 建議陰乾，避免長時間曝曬導致褪色。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 1400,
+      "price": 1080,
+      "unit": "件",
+      "color": [
+        "咖啡格紋",
+        "深藍格紋",
+        "米白格紋"
+      ],
+      "num": {
+        "咖啡格紋": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5
+        },
+        "深藍格紋": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5
+        },
+        "米白格紋": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5
+        }
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "imageUrl": "https://meee.com.tw/ogA0N4G",
+      "imagesUrl": [
+        ""
+      ],
+      "id": "-c9fCbtobIYNg3-s-W-QD"
+    },
+    {
+      "class": "女裝",
+      "category": "褲子",
+      "categoryItems": "長褲",
+      "title": "修身直筒牛仔褲",
+      "content": {
+        "design_style": "復古休閒風",
+        "design_introduction": "修身直筒牛仔褲採用優質丹寧布料，柔軟舒適且耐穿。經典五口袋設計搭配微刷色效果，增添復古時尚感。直筒版型修飾腿部線條，適合各種身形，無論搭配T恤或襯衫都能輕鬆展現休閒風格。",
+        "origin": "韓國"
+      },
+      "clean": {
+        "method1": "1. 建議翻面手洗或使用冷水低溫機洗，以維持布料質感。",
+        "method2": "2. 使用溫和洗劑，避免強效清潔劑影響刷色效果。",
+        "method3": "3. 洗後請陰乾，避免烘乾機高溫縮水。",
+        "method4": "4. 不建議長時間浸泡，以防止褪色。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 1800,
+      "price": 1350,
+      "unit": "件",
+      "color": [
+        "淺藍色",
+        "深藍色",
+        "經典藍"
+      ],
+      "num": {
+        "淺藍色": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5
+        },
+        "深藍色": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5
+        },
+        "經典藍": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5
+        }
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "imageUrl": "https://meee.com.tw/58PIWtH",
+      "imagesUrl": [
+        ""
+      ],
+      "id": "_UsNG2tXH-1U4IGAi-adZ"
+    },
+    {
+      "class": "女裝",
+      "category": "褲子",
+      "categoryItems": "褲裙",
+      "title": "復古亞麻高腰褲裙",
+      "content": {
+        "design_style": "優雅復古風",
+        "design_introduction": "復古亞麻高腰褲裙採用輕盈透氣的亞麻材質，帶來舒適的穿著體驗。高腰設計搭配斜門襟雙排釦細節，增添復古優雅氣息，A字版型修飾腿部線條，適合日常休閒或正式場合穿搭。",
+        "origin": "韓國"
+      },
+      "clean": {
+        "method1": "1. 建議冷水手洗，以維持亞麻布料的質感。",
+        "method2": "2. 使用溫和中性洗劑，避免強效清潔劑影響布料耐用度。",
+        "method3": "3. 洗後請輕壓去除水分，避免用力擰乾導致變形。",
+        "method4": "4. 建議陰乾，避免長時間曝曬導致褪色。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 1600,
+      "price": 1250,
+      "unit": "件",
+      "color": [
+        "米色",
+        "深卡其",
+        "淺灰藍"
+      ],
+      "num": {
+        "米色": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5
+        },
+        "深卡其": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5
+        },
+        "淺灰藍": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5
+        }
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "imageUrl": "https://meee.com.tw/luvIDHl",
+      "imagesUrl": [
+        ""
+      ],
+      "id": "2EVjw4ymBAVQmFblNezo6"
+    },
+    {
+      "class": "女裝",
+      "category": "褲子",
+      "categoryItems": "長褲",
+      "title": "高腰寬鬆休閒運動褲",
+      "content": {
+        "design_style": "運動休閒風",
+        "design_introduction": "高腰寬鬆休閒運動褲採用柔軟透氣的棉質混紡面料，舒適親膚，適合日常穿搭與運動訓練。寬鬆直筒版型提供極佳的活動空間，高腰抽繩設計讓穿著更加靈活，雙側口袋增加實用性，簡約時尚，輕鬆打造運動與休閒風格。",
+        "origin": "日本"
+      },
+      "clean": {
+        "method1": "1. 建議使用冷水手洗或低溫機洗，以保持布料柔軟度。",
+        "method2": "2. 使用中性洗劑，避免強效洗滌劑影響布料彈性。",
+        "method3": "3. 洗後請輕壓去除水分，避免用力擰乾導致變形。",
+        "method4": "4. 建議陰乾，避免長時間曝曬導致褪色與縮水。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 1400,
+      "price": 1080,
+      "unit": "件",
+      "color": [
+        "淺灰色",
+        "深藍色",
+        "黑色"
+      ],
+      "num": {
+        "淺灰色": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5
+        },
+        "深藍色": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5
+        },
+        "黑色": {
+          "S": 5,
+          "M": 6,
+          "L": 7,
+          "XL": 5
+        }
+      },
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "imageUrl": "https://meee.com.tw/YASmpQf",
+      "imagesUrl": [
+        ""
+      ],
+      "id": "tloXAWR-UGngWXsfBPT5z"
+    },
+    {
+      "class": "女裝",
+      "category": "配件",
+      "categoryItems": "帽子",
+      "title": "厚實針織毛線帽",
+      "content": {
+        "design_style": "保暖休閒風",
+        "design_introduction": "厚實針織毛線帽採用柔軟親膚的羊毛混紡材質，提供極佳的保暖效果，適合秋冬季節穿戴。經典羅紋針織設計增添層次感，寬翻邊款式讓整體造型更顯俐落與時尚感。無論是日常穿搭還是戶外活動，都能輕鬆搭配展現溫暖風格。",
+        "origin": "日本"
+      },
+      "clean": {
+        "method1": "1. 建議手洗，使用冷水與中性洗劑輕柔清洗。",
+        "method2": "2. 避免機洗或擰乾，以防止針織結構變形。",
+        "method3": "3. 洗後平放晾乾，避免吊掛導致帽型變形。",
+        "method4": "4. 不建議長時間曝曬，以維持帽子柔軟度與顏色。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 800,
+      "price": 620,
+      "unit": "頂",
+      "color": [
+        "淺粉色",
+        "奶茶色",
+        "深灰色"
+      ],
+      "num": {
+        "淺粉色": {
+          "F": 10
+        },
+        "奶茶色": {
+          "F": 10
+        },
+        "深灰色": {
+          "F": 10
+        }
+      },
+      "size": [
+        "F"
+      ],
+      "imageUrl": "https://meee.com.tw/HZiYLKF",
+      "imagesUrl": [
+        ""
+      ],
+      "id": "J5inQZNgoANvFnuO1XYde"
+    },
+    {
+      "class": "女裝",
+      "category": "配件",
+      "categoryItems": "披肩",
+      "title": "溫柔針織蝴蝶結披肩",
+      "content": {
+        "design_style": "優雅氣質風",
+        "design_introduction": "溫柔針織蝴蝶結披肩採用細膩柔軟的針織面料，舒適保暖，適合秋冬季節穿搭。獨特的蝴蝶結設計增添女性柔美氣質，寬鬆剪裁讓披肩自然垂墜，輕鬆搭配各種服飾，展現優雅層次感。",
+        "origin": "韓國"
+      },
+      "clean": {
+        "method1": "1. 建議冷水手洗，以維持針織布料的柔軟與彈性。",
+        "method2": "2. 使用溫和洗劑，避免強效清潔劑影響布料質感。",
+        "method3": "3. 洗後請平放晾乾，避免吊掛導致披肩變形。",
+        "method4": "4. 避免長時間曝曬，以確保布料顏色持久。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 1500,
+      "price": 1180,
+      "unit": "件",
+      "color": [
+        "米杏色",
+        "霧灰色",
+        "深咖啡色"
+      ],
+      "num": {
+        "米杏色": {
+          "F": 10
+        },
+        "霧灰色": {
+          "F": 10
+        },
+        "深咖啡色": {
+          "F": 10
+        }
+      },
+      "size": [
+        "F"
+      ],
+      "imageUrl": "https://meee.com.tw/MkWc2Vc",
+      "imagesUrl": [
+        "https://meee.com.tw/v5SwKqV"
+      ],
+      "id": "jbF0sktae1m4os3UXh9_0"
+    },
+    {
+      "class": "女裝",
+      "category": "配件",
+      "categoryItems": "披肩",
+      "title": "法式條紋蝴蝶結披肩",
+      "content": {
+        "design_style": "優雅法式風",
+        "design_introduction": "法式條紋蝴蝶結披肩採用柔軟針織面料，觸感細膩且保暖性佳。經典條紋設計搭配前綁帶蝴蝶結，增添優雅氣質，V領剪裁修飾肩部線條，輕鬆展現法式時尚風格。適合搭配洋裝、T恤或襯衫，無論休閒或正式場合皆適用。",
+        "origin": "韓國"
+      },
+      "clean": {
+        "method1": "1. 建議冷水手洗，以維持針織布料的柔軟與彈性。",
+        "method2": "2. 使用溫和洗劑，避免強效清潔劑影響布料質感。",
+        "method3": "3. 洗後請平放晾乾，避免吊掛導致披肩變形。",
+        "method4": "4. 避免長時間曝曬，以確保布料顏色持久。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 1600,
+      "price": 1280,
+      "unit": "件",
+      "color": [
+        "黑白條紋",
+        "深藍條紋",
+        "咖啡條紋"
+      ],
+      "num": {
+        "黑白條紋": {
+          "F": 10
+        },
+        "深藍條紋": {
+          "F": 10
+        },
+        "咖啡條紋": {
+          "F": 10
+        }
+      },
+      "size": [
+        "F"
+      ],
+      "imageUrl": "https://meee.com.tw/pz40bzP",
+      "imagesUrl": [
+        "https://meee.com.tw/jvttSbI",
+        "https://meee.com.tw/dgOD8mK"
+      ],
+      "id": "_vTs_2Q0nN7VwIapNoFwV"
+    },
+    {
+      "class": "女裝",
+      "category": "配件",
+      "categoryItems": "皮帶",
+      "title": "復古編織真皮皮帶",
+      "content": {
+        "design_style": "經典復古風",
+        "design_introduction": "復古編織真皮皮帶選用高品質頭層牛皮精製而成，手工編織工藝展現細膩質感，搭配復古黃銅金屬扣環，營造優雅與時尚兼具的氛圍。柔軟耐用的皮革設計，使其適用於各種場合，無論搭配洋裝、牛仔褲或西裝褲皆能輕鬆駕馭。",
+        "origin": "韓國"
+      },
+      "clean": {
+        "method1": "1. 建議使用皮革專用保養油定期保養，保持皮質柔軟。",
+        "method2": "2. 若遇水請立即擦乾，避免皮革變質。",
+        "method3": "3. 請存放於乾燥通風處，避免潮濕環境導致發霉。",
+        "method4": "4. 避免長時間曝曬，以防止皮革褪色與變硬。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 1800,
+      "price": 1380,
+      "unit": "條",
+      "color": [
+        "深咖啡色",
+        "經典棕色",
+        "黑色"
+      ],
+      "num": {
+        "深咖啡色": {
+          "F": 10
+        },
+        "經典棕色": {
+          "F": 10
+        },
+        "黑色": {
+          "F": 10
+        }
+      },
+      "size": [
+        "F"
+      ],
+      "imageUrl": "https://meee.com.tw/LSA2WKn",
+      "imagesUrl": [
+        "https://meee.com.tw/x1HMOxN",
+        "https://meee.com.tw/W0qYj6A"
+      ],
+      "id": "WAET94mkKvq-faJsjTVmD"
+    },
+    {
+      "class": "女裝",
+      "category": "配件",
+      "categoryItems": "皮帶",
+      "title": "簡約真皮金扣皮帶",
+      "content": {
+        "design_style": "極簡經典風",
+        "design_introduction": "簡約真皮金扣皮帶選用高品質頭層牛皮，搭配復古金屬扣環，展現低調奢華感。光滑皮革質感細膩，耐用且百搭，適合搭配正裝、休閒穿搭或牛仔褲，為整體造型增添精緻感。",
+        "origin": "韓國"
+      },
+      "clean": {
+        "method1": "1. 建議使用皮革專用保養油定期保養，保持皮質柔軟。",
+        "method2": "2. 若遇水請立即擦乾，避免皮革變質。",
+        "method3": "3. 存放於乾燥通風處，避免潮濕環境導致發霉。",
+        "method4": "4. 避免長時間曝曬，以防止皮革褪色與變硬。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 1600,
+      "price": 1250,
+      "unit": "條",
+      "color": [
+        "深咖啡色",
+        "經典黑",
+        "駝色"
+      ],
+      "num": {
+        "深咖啡色": {
+          "F": 10
+        },
+        "經典黑": {
+          "F": 10
+        },
+        "駝色": {
+          "F": 10
+        }
+      },
+      "size": [
+        "F"
+      ],
+      "imageUrl": "https://meee.com.tw/wH08vgl",
+      "imagesUrl": [
+        "https://meee.com.tw/8X5JV11"
+      ],
+      "id": "M6mvOR0cOv2Ri8ZzM9F4a"
+    },
+    {
+      "class": "女裝",
+      "category": "配件",
+      "categoryItems": "襪子",
+      "title": "糖果色純棉短襪（4雙組）",
+      "content": {
+        "design_style": "休閒可愛風",
+        "design_introduction": "糖果色純棉短襪選用高品質精梳棉，柔軟親膚，透氣吸汗，適合日常穿搭。簡約純色設計搭配清新糖果色系，增添活力感，適合搭配各種鞋款，如運動鞋、休閒鞋或涼鞋，輕鬆打造俏皮時尚造型。",
+        "origin": "韓國"
+      },
+      "clean": {
+        "method1": "1. 建議使用冷水手洗或低溫機洗，以維持襪子彈性。",
+        "method2": "2. 使用中性洗劑，避免強效洗滌劑影響顏色與柔軟度。",
+        "method3": "3. 洗後請輕壓去除水分，避免用力擰乾導致變形。",
+        "method4": "4. 建議陰乾，避免長時間曝曬導致褪色。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 600,
+      "price": 450,
+      "unit": "組",
+      "color": [
+        "米白色",
+        "薄荷綠",
+        "珊瑚紅",
+        "淡粉色"
+      ],
+      "num": {
+        "米白色": {
+          "F": 10
+        },
+        "薄荷綠": {
+          "F": 10
+        },
+        "珊瑚紅": {
+          "F": 10
+        },
+        "淡粉色": {
+          "F": 10
+        }
+      },
+      "size": [
+        "F"
+      ],
+      "imageUrl": "https://meee.com.tw/p40xAZE",
+      "imagesUrl": [
+        ""
+      ],
+      "id": "dhax1_rjg_-IHYdy_jBo9"
+    },
+    {
+      "class": "女裝",
+      "category": "配件",
+      "categoryItems": "襪子",
+      "title": "復古漸層中筒襪（3雙組）",
+      "content": {
+        "design_style": "文藝復古風",
+        "design_introduction": "復古漸層中筒襪採用高品質棉質混紡面料，柔軟透氣，親膚舒適。獨特的漸層染色設計，搭配經典羅紋針織，為日常穿搭增添文藝質感。適合搭配休閒鞋、皮鞋或靴子，展現低調優雅風格。",
+        "origin": "日本"
+      },
+      "clean": {
+        "method1": "1. 建議冷水手洗或低溫機洗，以維持襪子質感。",
+        "method2": "2. 使用中性洗劑，避免強效清潔劑影響顏色與彈性。",
+        "method3": "3. 洗後請輕壓去除水分，避免用力擰乾導致變形。",
+        "method4": "4. 建議陰乾，避免長時間曝曬導致褪色。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 750,
+      "price": 580,
+      "unit": "組",
+      "color": [
+        "奶茶漸層",
+        "橄欖綠漸層",
+        "紅棕漸層"
+      ],
+      "num": {
+        "奶茶漸層": {
+          "F": 10
+        },
+        "橄欖綠漸層": {
+          "F": 10
+        },
+        "紅棕漸層": {
+          "F": 10
+        }
+      },
+      "size": [
+        "F"
+      ],
+      "imageUrl": "https://meee.com.tw/2r45Q66",
+      "imagesUrl": [
+        ""
+      ],
+      "id": "i7Q6273BsHSEHoexecpJb"
+    },
+    {
+      "class": "女裝",
+      "category": "配件",
+      "categoryItems": "襪子",
+      "title": "透氣鏤空網眼船襪（3雙組）",
+      "content": {
+        "design_style": "輕薄透氣風",
+        "design_introduction": "透氣鏤空網眼船襪採用高品質純棉混紡材質，輕薄透氣，適合夏季穿搭。網眼設計提升空氣流通性，提供乾爽舒適的穿著體驗。簡約素色百搭，適合運動鞋、樂福鞋或涼鞋穿搭，讓雙腳保持清爽自在。",
+        "origin": "日本"
+      },
+      "clean": {
+        "method1": "1. 建議使用冷水手洗或低溫機洗，以維持襪子彈性。",
+        "method2": "2. 使用中性洗劑，避免強效清潔劑影響透氣網眼結構。",
+        "method3": "3. 洗後請輕壓去除水分，避免用力擰乾導致變形。",
+        "method4": "4. 建議陰乾，避免長時間曝曬導致褪色與材質老化。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 650,
+      "price": 520,
+      "unit": "組",
+      "color": [
+        "純白色",
+        "奶茶色",
+        "杏色"
+      ],
+      "num": {
+        "純白色": {
+          "F": 10
+        },
+        "奶茶色": {
+          "F": 10
+        },
+        "杏色": {
+          "F": 10
+        }
+      },
+      "size": [
+        "F"
+      ],
+      "imageUrl": "https://meee.com.tw/8IxZNUf",
+      "imagesUrl": [
+        ""
+      ],
+      "id": "dsBAdsK_A5_ynavH_QwnD"
     }
   ],
   "orders": [],
