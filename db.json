@@ -3008,6 +3008,290 @@
         ""
       ],
       "id": "dsBAdsK_A5_ynavH_QwnD"
+    },
+    {
+      "class": "男裝",
+      "category": "配件",
+      "categoryItems": "帽子",
+      "title": "簡約刺繡設計棒球帽",
+      "content": {
+        "design_style": "街頭休閒風",
+        "design_introduction": "簡約刺繡設計棒球帽選用高品質棉質面料，舒適透氣，適合日常佩戴。前方刺繡圖案增添時尚感，經典直板設計搭配可調式背帶，適合各種頭型，輕鬆搭配休閒裝或運動裝，展現街頭風格。",
+        "origin": "韓國"
+      },
+      "clean": {
+        "method1": "1. 建議手洗或低溫機洗，避免使用強效清潔劑。",
+        "method2": "2. 如有污漬，請使用柔和洗劑輕輕清潔。",
+        "method3": "3. 洗後請自然晾乾，避免長時間曝曬。",
+        "method4": "4. 請勿使用烘乾機，避免帽型變形。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 850,
+      "price": 650,
+      "unit": "頂",
+      "color": [
+        "黑色",
+        "深藍色",
+        "灰色"
+      ],
+      "num": {
+        "黑色": {
+          "F": 10
+        },
+        "深藍色": {
+          "F": 10
+        },
+        "灰色": {
+          "F": 10
+        }
+      },
+      "size": [
+        "F"
+      ],
+      "imageUrl": "https://meee.com.tw/8hJmiv4",
+      "imagesUrl": [
+        "https://meee.com.tw/sl8LkeI"
+      ],
+      "id": "46jyJNm1mMjL0UtmCLoqw"
+    },
+    {
+      "class": "男裝",
+      "category": "配件",
+      "categoryItems": "帽子",
+      "title": "字母刺繡字型棒球帽",
+      "content": {
+        "design_style": "街頭休閒風",
+        "design_introduction": "字母刺繡字型棒球帽採用耐用的棉質面料，舒適透氣，適合日常佩戴。前方刺繡的'HELLO WORLD'字樣搭配復古設計，充滿個性與街頭感。帽型經典且可調，適合不同頭型，輕鬆搭配休閒裝或運動風格，展現活力時尚感。",
+        "origin": "韓國"
+      },
+      "clean": {
+        "method1": "1. 建議手洗或低溫機洗，避免使用強效清潔劑。",
+        "method2": "2. 如有污漬，請使用柔和洗劑輕輕清潔。",
+        "method3": "3. 洗後請自然晾乾，避免長時間曝曬。",
+        "method4": "4. 請勿使用烘乾機，避免帽型變形。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 900,
+      "price": 720,
+      "unit": "頂",
+      "color": [
+        "米色",
+        "卡其色",
+        "深藍色"
+      ],
+      "num": {
+        "米色": {
+          "F": 10
+        },
+        "卡其色": {
+          "F": 10
+        },
+        "深藍色": {
+          "F": 10
+        }
+      },
+      "size": [
+        "F"
+      ],
+      "imageUrl": "https://meee.com.tw/SCsFtUa",
+      "imagesUrl": [
+        ""
+      ],
+      "id": "i1yyppqgcso5knbhtpFZX"
+    },
+    {
+      "class": "男裝",
+      "category": "配件",
+      "categoryItems": "皮帶",
+      "title": "真皮金屬扣皮帶",
+      "content": {
+        "design_style": "經典優雅風",
+        "design_introduction": "真皮金屬扣皮帶選用高品質牛皮精製而成，帶來耐用且舒適的穿著體驗。搭配金屬質感的扣環，簡潔而不失優雅。這款皮帶適合搭配各式正式或休閒服裝，是提升整體造型的理想單品。",
+        "origin": "日本"
+      },
+      "clean": {
+        "method1": "1. 建議使用皮革保養油定期保養，保持皮革光澤。",
+        "method2": "2. 避免與尖銳物品接觸，防止劃傷表面。",
+        "method3": "3. 若碰水，請立即擦乾並自然晾乾。",
+        "method4": "4. 避免長時間暴曬，保持皮革柔軟與耐用。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 1600,
+      "price": 1300,
+      "unit": "條",
+      "color": [
+        "深棕色",
+        "黑色",
+        "中棕色"
+      ],
+      "num": {
+        "深棕色": {
+          "F": 10
+        },
+        "黑色": {
+          "F": 10
+        },
+        "中棕色": {
+          "F": 10
+        }
+      },
+      "size": [
+        "F"
+      ],
+      "imageUrl": "https://meee.com.tw/nvHzOrU",
+      "imagesUrl": [
+        ""
+      ],
+      "id": "Cn3X39poJ2pOnfx6iQmaI"
+    },
+    {
+      "class": "男裝",
+      "category": "配件",
+      "categoryItems": "皮帶",
+      "title": "真皮金屬扣自動扣皮帶",
+      "content": {
+        "design_style": "現代簡約風",
+        "design_introduction": "真皮金屬扣自動扣皮帶採用高品質頭層牛皮，搭配精緻的金屬自動扣設計，簡潔卻不失高雅。帶身光滑且耐用，能與多種服飾輕鬆搭配，無論是正式場合還是日常穿搭，都能增添品味與氣質。",
+        "origin": "韓國"
+      },
+      "clean": {
+        "method1": "1. 建議定期使用皮革保養油保養，保持光澤與柔軟。",
+        "method2": "2. 若有污漬，請使用柔和的清潔劑輕輕擦拭。",
+        "method3": "3. 避免與尖銳物品接觸，避免刮傷。",
+        "method4": "4. 建議存放於乾燥、通風的地方，避免長時間曝曬。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 1800,
+      "price": 1450,
+      "unit": "條",
+      "color": [
+        "深棕色",
+        "黑色",
+        "酒紅色"
+      ],
+      "num": {
+        "深棕色": {
+          "F": 10
+        },
+        "黑色": {
+          "F": 10
+        },
+        "酒紅色": {
+          "F": 10
+        }
+      },
+      "size": [
+        "F"
+      ],
+      "imageUrl": "https://meee.com.tw/hOqEsl5",
+      "imagesUrl": [
+        ""
+      ],
+      "id": "TflkFBqz1AM4T6NZt2QMW"
+    },
+    {
+      "class": "男裝",
+      "category": "配件",
+      "categoryItems": "襪子",
+      "title": "運動條紋透氣中筒襪",
+      "content": {
+        "design_style": "運動休閒風",
+        "design_introduction": "運動條紋透氣中筒襪採用高品質棉質混紡面料，舒適透氣，適合各種運動場合與日常穿搭。獨特的條紋設計與網狀透氣區域，有效提高空氣流通性，保持雙腳乾爽，提供極致的舒適感。",
+        "origin": "韓國"
+      },
+      "clean": {
+        "method1": "1. 建議冷水手洗或低溫機洗，避免使用強效清潔劑。",
+        "method2": "2. 使用中性洗劑，避免影響襪子彈性與顏色。",
+        "method3": "3. 洗後請輕壓去除水分，避免用力擰乾。",
+        "method4": "4. 建議陰乾，避免長時間曝曬導致褪色。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 450,
+      "price": 350,
+      "unit": "雙",
+      "color": [
+        "藍白條紋",
+        "灰白條紋",
+        "黑白條紋"
+      ],
+      "num": {
+        "藍白條紋": {
+          "F": 10
+        },
+        "灰白條紋": {
+          "F": 10
+        },
+        "黑白條紋": {
+          "F": 10
+        }
+      },
+      "size": [
+        "F"
+      ],
+      "imageUrl": "https://meee.com.tw/slW5OtY",
+      "imagesUrl": [
+        ""
+      ],
+      "id": "6NGj3iIRz6j5wxI41DT_h"
+    },
+    {
+      "class": "男裝",
+      "category": "配件",
+      "categoryItems": "襪子",
+      "title": "經典條紋運動襪（2雙組）",
+      "content": {
+        "design_style": "運動復古風",
+        "design_introduction": "經典條紋運動襪採用高品質棉質混紡面料，結實耐用，提供極佳的舒適性與透氣性。經典的條紋設計搭配對比色，簡約中帶有時尚感，適合運動、日常休閒或搭配運動鞋，展現活力運動風格。",
+        "origin": "韓國"
+      },
+      "clean": {
+        "method1": "1. 建議使用冷水手洗或低溫機洗，保持襪子的彈性。",
+        "method2": "2. 使用中性洗劑，避免強效洗滌劑影響襪子的質感。",
+        "method3": "3. 洗後請輕壓去除水分，避免用力擰乾。",
+        "method4": "4. 建議陰乾，避免長時間曝曬導致褪色。"
+      },
+      "productSizeRef": "模特圖片網址",
+      "is_enabled": 1,
+      "status": "現貨",
+      "is_hot": 1,
+      "origin_price": 450,
+      "price": 350,
+      "unit": "組",
+      "color": [
+        "米白條紋",
+        "深灰條紋"
+      ],
+      "num": {
+        "米白條紋": {
+          "F": 10
+        },
+        "深灰條紋": {
+          "F": 10
+        }
+      },
+      "size": [
+        "F"
+      ],
+      "imageUrl": "https://meee.com.tw/jN2jwwL",
+      "imagesUrl": [
+        ""
+      ],
+      "id": "xs2xN9N1_jHFpbykr0i6q"
     }
   ],
   "orders": [],
