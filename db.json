@@ -963,7 +963,7 @@
         "method4": "4. 請勿使用漂白劑、螢光增白劑及衣物柔軟劑，以免破壞布料。"
       },
       "is_enabled": 1,
-      "status": "預購",
+      "status": "補貨中",
       "is_hot": 0,
       "origin_price": 490,
       "price": 450,
@@ -1337,7 +1337,7 @@
       "id": "5C3VfoKPmJm_Uy5ODk0Ub",
       "class": "男裝",
       "category": "外套",
-      "categoryItems": "夾克",
+      "categoryItems": "夾克外套",
       "title": "兜帽飛行員夾克",
       "content": {
         "design_style": "適合休閒穿搭",
@@ -1351,7 +1351,7 @@
         "method4": "4. 請勿使用漂白劑、螢光增白劑及衣物柔軟劑，以免破壞布料。"
       },
       "is_enabled": 1,
-      "status": "預購",
+      "status": "補貨中",
       "is_hot": 0,
       "origin_price": 1699,
       "price": 1599,
@@ -3328,5 +3328,13 @@
     }
   ],
   "favorites": [],
-  "coupons": []
+  "coupons": [
+    {
+      "title": "新會員優惠 10% off",
+      "is_enabled": true,
+      "percent": 10,
+      "due_date": 1555459200,
+      "code": "worldWear"
+    }
+  ]
 }
