@@ -5,7 +5,7 @@ const auth = require('json-server-auth');
 
 const server = jsonServer.create();
 const db = require('./db.json');
-const router = jsonServer.router('db.json');
+const router = jsonServer.router(db);
 const middlewares = jsonServer.defaults();
 
 server.use(cors());
