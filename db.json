@@ -3307,14 +3307,24 @@
       "productId": "knI4tV8qNwNbSpb-wZAVO"
     },
     {
-      "id": "-OKZjeqraXf0_aL5i1dz",
       "userId": "pqyfZ3sGxjTKmTSjmCAKa",
       "qty": 2,
       "color": "軍綠色",
       "size": "L",
       "total": 1300,
       "final_total": 1300,
-      "productId": "pbY_XkJN0HMGBFZZS8R3-"
+      "productId": "pbY_XkJN0HMGBFZZS8R3-",
+      "id": "W062yhihONNg48Rymlun0"
+    },
+    {
+      "userId": "pqyfZ3sGxjTKmTSjmCAKa",
+      "qty": 2,
+      "color": "酒紅色",
+      "size": "F",
+      "total": 2900,
+      "final_total": 2900,
+      "productId": "TflkFBqz1AM4T6NZt2QMW",
+      "id": "sQWcQnhb4pzFz36ExMcfz"
     }
   ],
   "favorites": [],
