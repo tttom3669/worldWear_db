@@ -3307,7 +3307,7 @@
       "productId": "knI4tV8qNwNbSpb-wZAVO"
     },
     {
-      "id": "-OKZjeqraXf0_aL5i1dz",
+      "id": "-OKZjeqraXf0_aL5i1dzs",
       "userId": "pqyfZ3sGxjTKmTSjmCAKa",
       "qty": 2,
       "color": "軍綠色",
@@ -3318,5 +3318,13 @@
     }
   ],
   "favorites": [],
-  "coupons": []
+  "coupons": [
+    {
+      "title": "新會員優惠 10% off",
+      "is_enabled": true,
+      "percent": 10,
+      "due_date": 1555459200,
+      "code": "worldWear"
+    }
+  ]
 }
