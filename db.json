@@ -1631,7 +1631,7 @@
     },
     {
       "class": "男裝",
-      "category": "下身",
+      "category": "褲子",
       "categoryItems": "西裝長褲",
       "title": "經典修身西裝長褲",
       "content": {
@@ -1911,7 +1911,7 @@
     },
     {
       "class": "男裝",
-      "category": "T-Shirt",
+      "category": "上衣",
       "categoryItems": "長袖",
       "title": "純色圓領長袖上衣",
       "content": {
@@ -1960,7 +1960,7 @@
     },
     {
       "class": "男裝",
-      "category": "T-Shirt",
+      "category": "上衣",
       "categoryItems": "長袖",
       "title": "字母印花圓領長袖上衣",
       "content": {
@@ -2008,7 +2008,7 @@
     },
     {
       "class": "男裝",
-      "category": "T-Shirt",
+      "category": "上衣",
       "categoryItems": "短袖",
       "title": "撞色拼接短袖T恤",
       "content": {
@@ -2066,7 +2066,7 @@
     },
     {
       "class": "男裝",
-      "category": "T-Shirt",
+      "category": "上衣",
       "categoryItems": "短袖",
       "title": "寬條紋短袖T恤",
       "content": {
