@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "json-server db.json -m ./node_modules/json-server-auth",
-    "start": "node server.js"
+    "start": "set USE_FILE=false&&node server.js",
+    "start:local": "set USE_FILE=true&&node server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",

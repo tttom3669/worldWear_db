@@ -4,8 +4,10 @@ const jsonServer = require('json-server');
 const auth = require('json-server-auth');
 
 const server = jsonServer.create();
-const db = require('./db.json');
+
+const db = process.env.USE_FILE === 'true' ? 'db.json' : require('./db.json');
 const router = jsonServer.router(db);
+
 const middlewares = jsonServer.defaults();
 
 server.use(cors());
@@ -41,4 +43,3 @@ server.listen(3000, () => {
 });
 
 module.exports = server;
-
