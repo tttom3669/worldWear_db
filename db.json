@@ -3294,7 +3294,87 @@
       "id": "xs2xN9N1_jHFpbykr0i6q"
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "is_paid": false,
+      "status": "未出貨",
+      "products": [
+        {
+          "product": {
+            "class": "女裝",
+            "category": "上衣",
+            "categoryItems": "襯衫",
+            "title": "法蘭絨短版襯衫",
+            "content": {
+              "design_style": "休閒穿搭",
+              "design_introduction": "法蘭絨短版襯衫以柔軟溫暖的法蘭絨材質製成，適合秋冬季節穿著，帶來舒適的保暖效果。短版剪裁搭配經典格紋設計，增添時尚感與層次感，無論單穿或作為外搭都能展現休閒風格。",
+              "origin": "中國"
+            },
+            "clean": {
+              "method1": "1. 深淺色請分開洗滌，以避免造成互相移染。",
+              "method2": "2. 請使用冷水或溫水(低於30°C)手洗，並使用中性洗劑，避免長時間浸泡。",
+              "method3": "3. 請勿使用高溫烘乾，建議自然晾乾以維持布料質感。",
+              "method4": "4. 避免使用漂白劑或螢光增白劑，以免損害布料纖維。"
+            },
+            "productSizeRef": "模特圖片網址",
+            "is_enabled": 1,
+            "status": "現貨",
+            "is_hot": 1,
+            "origin_price": 1200,
+            "price": 850,
+            "unit": "件",
+            "color": [
+              "紅色",
+              "黃色",
+              "水藍色"
+            ],
+            "num": {
+              "紅色": {
+                "S": 12,
+                "M": 13,
+                "L": 14,
+                "XL": 12,
+                "2XL": 11
+              },
+              "黃色": {
+                "S": 12,
+                "M": 13,
+                "L": 14,
+                "XL": 12,
+                "2XL": 11
+              },
+              "水藍色": {
+                "S": 12,
+                "M": 13,
+                "L": 14,
+                "XL": 12,
+                "2XL": 11
+              }
+            },
+            "size": [
+              "S",
+              "M",
+              "L",
+              "XL",
+              "2XL"
+            ],
+            "imageUrl": "https://i.meee.com.tw/wEzHrAc.jpeg",
+            "imagesUrl": [
+              "https://i.meee.com.tw/cQ4ntRf.jpeg",
+              "https://i.meee.com.tw/706jNy2.jpg"
+            ]
+          },
+          "num": 1,
+          "size": "M",
+          "color": "水藍色"
+        }
+      ],
+      "total": 850,
+      "final_total": 850,
+      "userId": "pqyfZ3sGxjTKmTSjmCAKa",
+      "id": "pibad7Ngm7On-tcVtvFYP"
+    }
+  ],
   "carts": [
     {
       "id": "-OKZjeqraXf0_aL5i1dz",
@@ -3327,7 +3407,16 @@
       "id": "sQWcQnhb4pzFz36ExMcfz"
     }
   ],
-  "favorites": [],
+  "favorites": [
+    {
+      "userId": "pqyfZ3sGxjTKmTSjmCAKa",
+      "qty": 6,
+      "color": "紅色",
+      "size": "M",
+      "productId": "knI4tV8qNwNbSpb-wZAVO",
+      "id": "SsuaeXHVvKV30sL6pG78p"
+    }
+  ],
   "coupons": [
     {
       "title": "新會員優惠 10% off",
