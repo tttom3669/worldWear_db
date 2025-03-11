@@ -2829,8 +2829,8 @@
       ],
       "orderDate": "2024/09/15 13:31",
       "paymentInfo": {
-        "totalAmount": 2400,
-        "discount": 200,
+        "totalAmount": 850,
+        "discount": 85,
         "paymentMethod": "信用卡一次付款"
       },
       "deliveryInfo": {
@@ -2844,7 +2844,7 @@
         "carrier": "會員載具"
       },
       "total": 850,
-      "final_total": 850,
+      "final_total": 765,
       "userId": "pqyfZ3sGxjTKmTSjmCAKa",
       "id": "pibad7Ngm7On-tcVtvFYP"
     }
