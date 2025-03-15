@@ -1425,7 +1425,7 @@
       "id": "DZw_L13jGSDNKTv0pBFlJ",
       "class": "男裝",
       "category": "外套",
-      "CategoryItems": "長版外套",
+      "categoryItems": "長版外套",
       "title": "長版外套",
       "content": {
         "design_style": "適合約會穿搭",
