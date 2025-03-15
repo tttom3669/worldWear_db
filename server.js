@@ -16,6 +16,12 @@ server.use(jsonServer.bodyParser);
 
 // 自訂中介層，為每筆新增資料生成亂碼 ID
 server.use((req, res, next) => {
+  res.header(
+    'Cache-Control',
+    'no-store, no-cache, must-revalidate, proxy-revalidate'
+  );
+  res.header('Pragma', 'no-cache');
+  res.header('Expires', '0');
   if (req.method === 'POST' && req.body) {
     req.body.id = nanoid();
   }
