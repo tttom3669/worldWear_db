@@ -22,6 +22,13 @@
       "id": "Ebk99wv0QVO8FtdiWeLYU"
     },
     {
+      "email": "test@gmail.com",
+      "password": "$2a$10$SeA6eM43X2ThO3ikPZxmvu7XYvikgzaRjcMZ6BrLF80gLRafAfwqi",
+      "role": "user",
+      "username": "test",
+      "id": "pbs5UHdZo7Th7_BStU-o9"
+    },
+    {
       "email": "qa@gmail.com",
       "password": "$2a$10$riE41dU5cvXOYCVQvkqQFOYNlMIWxyiJoKbThgGUndm2lVkKsc6nq",
       "role": "user",
@@ -53,7 +60,11 @@
       "origin_price": 1200,
       "price": 850,
       "unit": "件",
-      "color": ["紅色", "黃色", "水藍色"],
+      "color": [
+        "紅色",
+        "黃色",
+        "水藍色"
+      ],
       "num": {
         "紅色": {
           "S": 12,
@@ -77,7 +88,13 @@
           "2XL": 11
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/wEzHrAc.jpeg",
       "imagesUrl": [
         "https://i.meee.com.tw/cQ4ntRf.jpeg",
@@ -108,7 +125,11 @@
       "origin_price": 1500,
       "price": 1100,
       "unit": "件",
-      "color": ["米白色", "卡其色", "灰色"],
+      "color": [
+        "米白色",
+        "卡其色",
+        "灰色"
+      ],
       "num": {
         "米白色": {
           "S": 3,
@@ -132,7 +153,13 @@
           "2XL": 1
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/JZRsUxA.jpg",
       "imagesUrl": [
         "https://i.meee.com.tw/5tJDHAj.jpg",
@@ -163,7 +190,10 @@
       "origin_price": 900,
       "price": 650,
       "unit": "件",
-      "color": ["青綠色", "灰色"],
+      "color": [
+        "青綠色",
+        "灰色"
+      ],
       "num": {
         "青綠色": {
           "S": 4,
@@ -180,9 +210,17 @@
           "2XL": 2
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/kXGxAOu.jpg",
-      "imagesUrl": ["https://i.meee.com.tw/echkcoS.jpg"],
+      "imagesUrl": [
+        "https://i.meee.com.tw/echkcoS.jpg"
+      ],
       "id": "6GwGUGTT9qpqdt9S4XkeI"
     },
     {
@@ -208,7 +246,10 @@
       "origin_price": 1200,
       "price": 850,
       "unit": "件",
-      "color": ["卡其色", "黑色"],
+      "color": [
+        "卡其色",
+        "黑色"
+      ],
       "num": {
         "卡其色": {
           "S": 3,
@@ -225,9 +266,17 @@
           "2XL": 2
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/6VicjqR.jpg",
-      "imagesUrl": ["https://i.meee.com.tw/o8qgArm.webp"],
+      "imagesUrl": [
+        "https://i.meee.com.tw/o8qgArm.webp"
+      ],
       "id": "zWss0RccOlPRlqzJ1TRAl"
     },
     {
@@ -253,7 +302,13 @@
       "origin_price": 1500,
       "price": 1050,
       "unit": "件",
-      "color": ["灰色", "米白色", "白色", "黑色", "紫色"],
+      "color": [
+        "灰色",
+        "米白色",
+        "白色",
+        "黑色",
+        "紫色"
+      ],
       "num": {
         "灰色": {
           "S": 4,
@@ -291,7 +346,13 @@
           "2XL": 3
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/cfkNb12.webp",
       "imagesUrl": [
         "https://i.meee.com.tw/HvbINjG.webp",
@@ -324,7 +385,10 @@
       "origin_price": 2200,
       "price": 1650,
       "unit": "件",
-      "color": ["卡其色", "米白色"],
+      "color": [
+        "卡其色",
+        "米白色"
+      ],
       "num": {
         "卡其色": {
           "S": 3,
@@ -341,9 +405,17 @@
           "2XL": 2
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/3PA84Vz.jpg",
-      "imagesUrl": ["https://i.meee.com.tw/z1bsG3Y.jpg"],
+      "imagesUrl": [
+        "https://i.meee.com.tw/z1bsG3Y.jpg"
+      ],
       "id": "F0GWIyzAo1Byur2un1pim"
     },
     {
@@ -369,7 +441,10 @@
       "origin_price": 3200,
       "price": 2350,
       "unit": "件",
-      "color": ["深灰色", "米白色"],
+      "color": [
+        "深灰色",
+        "米白色"
+      ],
       "num": {
         "深灰色": {
           "S": 4,
@@ -386,9 +461,17 @@
           "2XL": 3
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/TWGE4SB.jpeg",
-      "imagesUrl": ["https://i.meee.com.tw/qmQaKbp.jpeg"],
+      "imagesUrl": [
+        "https://i.meee.com.tw/qmQaKbp.jpeg"
+      ],
       "id": "_swYEmYCPX51EpkxpBCCm"
     },
     {
@@ -414,7 +497,10 @@
       "origin_price": 1800,
       "price": 1290,
       "unit": "件",
-      "color": ["米白色", "綠色"],
+      "color": [
+        "米白色",
+        "綠色"
+      ],
       "num": {
         "米白色": {
           "S": 5,
@@ -431,9 +517,17 @@
           "2XL": 4
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/jC31YXi.jpg",
-      "imagesUrl": ["https://i.meee.com.tw/1t867Jq.jpg"],
+      "imagesUrl": [
+        "https://i.meee.com.tw/1t867Jq.jpg"
+      ],
       "id": "n4RyzEcc3mEu3bQ6G-6al"
     },
     {
@@ -459,7 +553,10 @@
       "origin_price": 2200,
       "price": 1580,
       "unit": "件",
-      "color": ["黑色", "棕色"],
+      "color": [
+        "黑色",
+        "棕色"
+      ],
       "num": {
         "黑色": {
           "S": 3,
@@ -476,9 +573,17 @@
           "2XL": 3
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/kdKkAeV.jpg",
-      "imagesUrl": ["https://i.meee.com.tw/rvRNUvy.jpg"],
+      "imagesUrl": [
+        "https://i.meee.com.tw/rvRNUvy.jpg"
+      ],
       "id": "8ESG_Pue7iCB9pxhxFMCs"
     },
     {
@@ -504,7 +609,10 @@
       "origin_price": 1280,
       "price": 900,
       "unit": "件",
-      "color": ["黑色", "灰色"],
+      "color": [
+        "黑色",
+        "灰色"
+      ],
       "num": {
         "黑色": {
           "S": 5,
@@ -521,9 +629,17 @@
           "2XL": 3
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/9UnOetq.jpg",
-      "imagesUrl": ["https://i.meee.com.tw/oJv7lFk.jpg"],
+      "imagesUrl": [
+        "https://i.meee.com.tw/oJv7lFk.jpg"
+      ],
       "id": "DCk3vPiyfAvjIAbBcfh3J"
     },
     {
@@ -549,7 +665,13 @@
       "origin_price": 1000,
       "price": 700,
       "unit": "件",
-      "color": ["黃色", "藍色", "水藍色", "白色", "米色"],
+      "color": [
+        "黃色",
+        "藍色",
+        "水藍色",
+        "白色",
+        "米色"
+      ],
       "num": {
         "黃色": {
           "S": 15,
@@ -587,7 +709,13 @@
           "2XL": 20
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "productSizeRef": "模特圖片網址",
       "imageUrl": "https://i.meee.com.tw/m6XF4bA.jpg",
       "imagesUrl": [
@@ -620,7 +748,13 @@
       "origin_price": 1500,
       "price": 900,
       "unit": "件",
-      "color": ["紅色", "黃色", "藍色", "黑色", "白色"],
+      "color": [
+        "紅色",
+        "黃色",
+        "藍色",
+        "黑色",
+        "白色"
+      ],
       "num": {
         "紅色": {
           "S": 15,
@@ -658,7 +792,13 @@
           "2XL": 20
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "productSizeRef": "模特圖片網址",
       "imageUrl": "https://i.meee.com.tw/7bVVGRA.jpg",
       "imagesUrl": [
@@ -691,7 +831,13 @@
       "origin_price": 1680,
       "price": 1200,
       "unit": "件",
-      "color": ["藏青色", "黑色", "白色", "紅色", "粉紅色"],
+      "color": [
+        "藏青色",
+        "黑色",
+        "白色",
+        "紅色",
+        "粉紅色"
+      ],
       "num": {
         "藏青色": {
           "S": 15,
@@ -729,7 +875,13 @@
           "2XL": 20
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "productSizeRef": "模特圖片網址",
       "imageUrl": "https://i.meee.com.tw/QRqrjUo.jpg",
       "imagesUrl": [
@@ -762,7 +914,13 @@
       "origin_price": 790,
       "price": 700,
       "unit": "件",
-      "color": ["天藍色", "紅色", "紫色", "藏青色", "米色"],
+      "color": [
+        "天藍色",
+        "紅色",
+        "紫色",
+        "藏青色",
+        "米色"
+      ],
       "num": {
         "天藍色": {
           "S": 15,
@@ -800,7 +958,13 @@
           "2XL": 20
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "productSizeRef": "模特圖片網址",
       "imageUrl": "https://i.meee.com.tw/Pon1M3m.jpg",
       "imagesUrl": [
@@ -833,7 +997,13 @@
       "origin_price": 490,
       "price": 450,
       "unit": "件",
-      "color": ["黃色", "天藍色", "藏青色", "白色", "黑色"],
+      "color": [
+        "黃色",
+        "天藍色",
+        "藏青色",
+        "白色",
+        "黑色"
+      ],
       "num": {
         "黃色": {
           "S": 15,
@@ -871,7 +1041,13 @@
           "2XL": 20
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "productSizeRef": "模特圖片網址",
       "imageUrl": "https://i.meee.com.tw/Z8jTG9a.jpg",
       "imagesUrl": [
@@ -904,7 +1080,13 @@
       "origin_price": 890,
       "price": 850,
       "unit": "件",
-      "color": ["黃色", "白色", "寶藍色", "水藍色", "米色"],
+      "color": [
+        "黃色",
+        "白色",
+        "寶藍色",
+        "水藍色",
+        "米色"
+      ],
       "num": {
         "黃色": {
           "S": 15,
@@ -942,7 +1124,13 @@
           "2XL": 20
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "productSizeRef": "模特圖片網址",
       "imageUrl": "https://i.meee.com.tw/Axu686e.jpg",
       "imagesUrl": [
@@ -975,7 +1163,12 @@
       "origin_price": 590,
       "price": 550,
       "unit": "件",
-      "color": ["黑色", "米色", "咖啡色", "酒紅色"],
+      "color": [
+        "黑色",
+        "米色",
+        "咖啡色",
+        "酒紅色"
+      ],
       "num": {
         "黑色": {
           "S": 15,
@@ -1006,7 +1199,13 @@
           "2XL": 20
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "productSizeRef": "模特圖片網址",
       "imageUrl": "https://i.meee.com.tw/BRRSwxk.jpg",
       "imagesUrl": [
@@ -1038,7 +1237,12 @@
       "origin_price": 590,
       "price": 540,
       "unit": "件",
-      "color": ["白色", "黑色", "紅色", "粉紅色"],
+      "color": [
+        "白色",
+        "黑色",
+        "紅色",
+        "粉紅色"
+      ],
       "num": {
         "白色": {
           "S": 15,
@@ -1069,7 +1273,13 @@
           "2XL": 20
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "productSizeRef": "模特圖片網址",
       "imageUrl": "https://i.meee.com.tw/KrvRtkj.jpg",
       "imagesUrl": [
@@ -1101,7 +1311,12 @@
       "origin_price": 690,
       "price": 598,
       "unit": "件",
-      "color": ["米色", "灰色", "咖啡色", "紅色"],
+      "color": [
+        "米色",
+        "灰色",
+        "咖啡色",
+        "紅色"
+      ],
       "num": {
         "米色": {
           "S": 15,
@@ -1132,7 +1347,13 @@
           "2XL": 20
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "productSizeRef": "模特圖片網址",
       "imageUrl": "https://i.meee.com.tw/99FhUb4.jpg",
       "imagesUrl": [
@@ -1164,7 +1385,12 @@
       "origin_price": 1699,
       "price": 1599,
       "unit": "件",
-      "color": ["紅色", "黑色", "咖啡色", "紫色"],
+      "color": [
+        "紅色",
+        "黑色",
+        "咖啡色",
+        "紫色"
+      ],
       "num": {
         "紅色": {
           "S": 15,
@@ -1195,7 +1421,13 @@
           "2XL": 20
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "productSizeRef": "模特圖片網址",
       "imageUrl": "https://i.meee.com.tw/PBQQKxx.jpg",
       "imagesUrl": [
@@ -1227,7 +1459,12 @@
       "origin_price": 2500,
       "price": 2250,
       "unit": "件",
-      "color": ["黑色", "咖啡色", "灰色", "藏青色"],
+      "color": [
+        "黑色",
+        "咖啡色",
+        "灰色",
+        "藏青色"
+      ],
       "num": {
         "黑色": {
           "S": 15,
@@ -1258,7 +1495,13 @@
           "2XL": 20
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "productSizeRef": "模特圖片網址",
       "imageUrl": "https://i.meee.com.tw/IFM230L.jpg",
       "imagesUrl": [
@@ -1290,7 +1533,12 @@
       "origin_price": 4950,
       "price": 4800,
       "unit": "件",
-      "color": ["藏青色", "淺灰色", "深灰色", "銀色"],
+      "color": [
+        "藏青色",
+        "淺灰色",
+        "深灰色",
+        "銀色"
+      ],
       "num": {
         "藏青色": {
           "S": 15,
@@ -1321,7 +1569,13 @@
           "2XL": 20
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "productSizeRef": "模特圖片網址",
       "imageUrl": "https://i.meee.com.tw/j4sd756.jpg",
       "imagesUrl": [
@@ -1353,7 +1607,12 @@
       "origin_price": 1500,
       "price": 1100,
       "unit": "件",
-      "color": ["深藍色", "淺藍色", "黑色", "白色"],
+      "color": [
+        "深藍色",
+        "淺藍色",
+        "黑色",
+        "白色"
+      ],
       "num": {
         "深藍色": {
           "S": 10,
@@ -1384,7 +1643,13 @@
           "2XL": 6
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/aX12xhd.jpeg",
       "imagesUrl": [
         "https://i.meee.com.tw/1LGEk88.jpeg",
@@ -1416,7 +1681,12 @@
       "origin_price": 1290,
       "price": 990,
       "unit": "件",
-      "color": ["黑色", "深灰色", "海軍藍", "淺灰色"],
+      "color": [
+        "黑色",
+        "深灰色",
+        "海軍藍",
+        "淺灰色"
+      ],
       "num": {
         "黑色": {
           "S": 10,
@@ -1440,7 +1710,13 @@
           "2XL": 11
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/AcYRf9u.jpg",
       "imagesUrl": [
         "https://i.meee.com.tw/AcYRf9u.jpg",
@@ -1471,7 +1747,12 @@
       "origin_price": 1800,
       "price": 1290,
       "unit": "件",
-      "color": ["黑色", "米白色", "卡其色", "海軍藍"],
+      "color": [
+        "黑色",
+        "米白色",
+        "卡其色",
+        "海軍藍"
+      ],
       "num": {
         "黑色": {
           "S": 10,
@@ -1502,7 +1783,13 @@
           "2XL": 15
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/ju4DGmA.jpg",
       "imagesUrl": [
         "https://i.meee.com.tw/xpL4zVx.webp",
@@ -1534,7 +1821,11 @@
       "origin_price": 1500,
       "price": 1080,
       "unit": "件",
-      "color": ["米白色", "卡其色", "深藍色"],
+      "color": [
+        "米白色",
+        "卡其色",
+        "深藍色"
+      ],
       "num": {
         "米白色": {
           "S": 20,
@@ -1558,7 +1849,13 @@
           "2XL": 8
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/llwEpSG.jpg",
       "imagesUrl": [
         "https://i.meee.com.tw/Al5F0pa.jpg",
@@ -1590,7 +1887,12 @@
       "origin_price": 900,
       "price": 650,
       "unit": "件",
-      "color": ["軍綠色", "卡其色", "黑色", "米白色"],
+      "color": [
+        "軍綠色",
+        "卡其色",
+        "黑色",
+        "米白色"
+      ],
       "num": {
         "軍綠色": {
           "S": 10,
@@ -1621,7 +1923,13 @@
           "2XL": 12
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/m6YmbY2.jpg",
       "imagesUrl": [
         "https://i.meee.com.tw/T5aKaOI.jpg",
@@ -1653,7 +1961,9 @@
       "origin_price": 1200,
       "price": 890,
       "unit": "件",
-      "color": ["深灰色"],
+      "color": [
+        "深灰色"
+      ],
       "num": {
         "深灰色": {
           "S": 5,
@@ -1663,7 +1973,13 @@
           "2XL": 4
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/aOENpgB.jpg",
       "imagesUrl": [
         "https://i.meee.com.tw/OSpgjxx.jpg",
@@ -1694,7 +2010,9 @@
       "origin_price": 1400,
       "price": 990,
       "unit": "件",
-      "color": ["米白色"],
+      "color": [
+        "米白色"
+      ],
       "num": {
         "米白色": {
           "S": 5,
@@ -1704,9 +2022,17 @@
           "2XL": 4
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/fkKwGTE.jpg",
-      "imagesUrl": [""],
+      "imagesUrl": [
+        ""
+      ],
       "id": "uTYfqhna55u3xwodWvb3T"
     },
     {
@@ -1732,7 +2058,10 @@
       "origin_price": 800,
       "price": 590,
       "unit": "件",
-      "color": ["酒紅拼白", "深藍拼白"],
+      "color": [
+        "酒紅拼白",
+        "深藍拼白"
+      ],
       "num": {
         "酒紅拼白": {
           "S": 5,
@@ -1749,7 +2078,13 @@
           "2XL": 4
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/Bkiqic3.jpg",
       "imagesUrl": [
         "https://i.meee.com.tw/CS4KeGs.jpg",
@@ -1781,7 +2116,11 @@
       "origin_price": 900,
       "price": 690,
       "unit": "件",
-      "color": ["卡其條紋", "深藍條紋", "黑白條紋"],
+      "color": [
+        "卡其條紋",
+        "深藍條紋",
+        "黑白條紋"
+      ],
       "num": {
         "卡其條紋": {
           "S": 5,
@@ -1805,7 +2144,13 @@
           "2XL": 4
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/RyXIVsi.jpg",
       "imagesUrl": [
         "https://i.meee.com.tw/P7Old2V.webp",
@@ -1836,7 +2181,11 @@
       "origin_price": 3200,
       "price": 2490,
       "unit": "件",
-      "color": ["淺灰色", "深藍色", "黑色"],
+      "color": [
+        "淺灰色",
+        "深藍色",
+        "黑色"
+      ],
       "num": {
         "淺灰色": {
           "S": 5,
@@ -1860,7 +2209,13 @@
           "2XL": 4
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/UTROO4V.jpg",
       "imagesUrl": [
         "https://i.meee.com.tw/gDMaJBu.jpg",
@@ -1891,7 +2246,11 @@
       "origin_price": 2800,
       "price": 2190,
       "unit": "件",
-      "color": ["深灰色", "海軍藍", "黑色"],
+      "color": [
+        "深灰色",
+        "海軍藍",
+        "黑色"
+      ],
       "num": {
         "深灰色": {
           "S": 5,
@@ -1915,7 +2274,13 @@
           "2XL": 4
         }
       },
-      "size": ["S", "M", "L", "XL", "2XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/6XI4VLZ.jpg",
       "imagesUrl": [
         "https://i.meee.com.tw/01FEUEq.jpg",
@@ -1946,7 +2311,11 @@
       "origin_price": 900,
       "price": 690,
       "unit": "件",
-      "color": ["米色", "卡其色", "深灰色"],
+      "color": [
+        "米色",
+        "卡其色",
+        "深灰色"
+      ],
       "num": {
         "米色": {
           "S": 5,
@@ -1967,9 +2336,16 @@
           "XL": 5
         }
       },
-      "size": ["S", "M", "L", "XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/YmTKYcY.jpg",
-      "imagesUrl": [""],
+      "imagesUrl": [
+        ""
+      ],
       "id": "YhxvBciEtN98SC-DIOv0W"
     },
     {
@@ -1995,7 +2371,11 @@
       "origin_price": 950,
       "price": 720,
       "unit": "件",
-      "color": ["淺粉色", "米色", "灰紫色"],
+      "color": [
+        "淺粉色",
+        "米色",
+        "灰紫色"
+      ],
       "num": {
         "淺粉色": {
           "S": 5,
@@ -2016,9 +2396,16 @@
           "XL": 5
         }
       },
-      "size": ["S", "M", "L", "XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/OXJdPDG.jpg",
-      "imagesUrl": [""],
+      "imagesUrl": [
+        ""
+      ],
       "id": "8LEyCYFi74jRQwY7vfiy-"
     },
     {
@@ -2044,7 +2431,11 @@
       "origin_price": 1400,
       "price": 1080,
       "unit": "件",
-      "color": ["咖啡格紋", "深藍格紋", "米白格紋"],
+      "color": [
+        "咖啡格紋",
+        "深藍格紋",
+        "米白格紋"
+      ],
       "num": {
         "咖啡格紋": {
           "S": 5,
@@ -2065,9 +2456,16 @@
           "XL": 5
         }
       },
-      "size": ["S", "M", "L", "XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/ogA0N4G.jpg",
-      "imagesUrl": [""],
+      "imagesUrl": [
+        ""
+      ],
       "id": "-c9fCbtobIYNg3-s-W-QD"
     },
     {
@@ -2093,7 +2491,11 @@
       "origin_price": 1800,
       "price": 1350,
       "unit": "件",
-      "color": ["淺藍色", "深藍色", "經典藍"],
+      "color": [
+        "淺藍色",
+        "深藍色",
+        "經典藍"
+      ],
       "num": {
         "淺藍色": {
           "S": 5,
@@ -2114,9 +2516,16 @@
           "XL": 5
         }
       },
-      "size": ["S", "M", "L", "XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/58PIWtH.jpg",
-      "imagesUrl": [""],
+      "imagesUrl": [
+        ""
+      ],
       "id": "_UsNG2tXH-1U4IGAi-adZ"
     },
     {
@@ -2142,7 +2551,11 @@
       "origin_price": 1600,
       "price": 1250,
       "unit": "件",
-      "color": ["米色", "深卡其", "淺灰藍"],
+      "color": [
+        "米色",
+        "深卡其",
+        "淺灰藍"
+      ],
       "num": {
         "米色": {
           "S": 5,
@@ -2163,9 +2576,16 @@
           "XL": 5
         }
       },
-      "size": ["S", "M", "L", "XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/luvIDHl.webp",
-      "imagesUrl": [""],
+      "imagesUrl": [
+        ""
+      ],
       "id": "2EVjw4ymBAVQmFblNezo6"
     },
     {
@@ -2191,7 +2611,11 @@
       "origin_price": 1400,
       "price": 1080,
       "unit": "件",
-      "color": ["淺灰色", "深藍色", "黑色"],
+      "color": [
+        "淺灰色",
+        "深藍色",
+        "黑色"
+      ],
       "num": {
         "淺灰色": {
           "S": 5,
@@ -2212,9 +2636,16 @@
           "XL": 5
         }
       },
-      "size": ["S", "M", "L", "XL"],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
       "imageUrl": "https://i.meee.com.tw/YASmpQf.jpg",
-      "imagesUrl": [""],
+      "imagesUrl": [
+        ""
+      ],
       "id": "tloXAWR-UGngWXsfBPT5z"
     },
     {
@@ -2240,7 +2671,11 @@
       "origin_price": 800,
       "price": 620,
       "unit": "頂",
-      "color": ["淺粉色", "奶茶色", "深灰色"],
+      "color": [
+        "淺粉色",
+        "奶茶色",
+        "深灰色"
+      ],
       "num": {
         "淺粉色": {
           "F": 10
@@ -2252,9 +2687,13 @@
           "F": 10
         }
       },
-      "size": ["F"],
+      "size": [
+        "F"
+      ],
       "imageUrl": "https://i.meee.com.tw/HZiYLKF.png",
-      "imagesUrl": [""],
+      "imagesUrl": [
+        ""
+      ],
       "id": "J5inQZNgoANvFnuO1XYde"
     },
     {
@@ -2280,7 +2719,11 @@
       "origin_price": 1500,
       "price": 1180,
       "unit": "件",
-      "color": ["米杏色", "霧灰色", "深咖啡色"],
+      "color": [
+        "米杏色",
+        "霧灰色",
+        "深咖啡色"
+      ],
       "num": {
         "米杏色": {
           "F": 10
@@ -2292,9 +2735,13 @@
           "F": 10
         }
       },
-      "size": ["F"],
+      "size": [
+        "F"
+      ],
       "imageUrl": "https://i.meee.com.tw/MkWc2Vc.png",
-      "imagesUrl": ["https://i.meee.com.tw/v5SwKqV.jpg"],
+      "imagesUrl": [
+        "https://i.meee.com.tw/v5SwKqV.jpg"
+      ],
       "id": "jbF0sktae1m4os3UXh9_0"
     },
     {
@@ -2320,7 +2767,11 @@
       "origin_price": 1600,
       "price": 1280,
       "unit": "件",
-      "color": ["黑白條紋", "深藍條紋", "咖啡條紋"],
+      "color": [
+        "黑白條紋",
+        "深藍條紋",
+        "咖啡條紋"
+      ],
       "num": {
         "黑白條紋": {
           "F": 10
@@ -2332,7 +2783,9 @@
           "F": 10
         }
       },
-      "size": ["F"],
+      "size": [
+        "F"
+      ],
       "imageUrl": "https://i.meee.com.tw/pz40bzP.png",
       "imagesUrl": [
         "https://i.meee.com.tw/jvttSbI.jpg",
@@ -2363,7 +2816,11 @@
       "origin_price": 1800,
       "price": 1380,
       "unit": "條",
-      "color": ["深咖啡色", "經典棕色", "黑色"],
+      "color": [
+        "深咖啡色",
+        "經典棕色",
+        "黑色"
+      ],
       "num": {
         "深咖啡色": {
           "F": 10
@@ -2375,7 +2832,9 @@
           "F": 10
         }
       },
-      "size": ["F"],
+      "size": [
+        "F"
+      ],
       "imageUrl": "https://i.meee.com.tw/LSA2WKn.jpg",
       "imagesUrl": [
         "https://i.meee.com.tw/x1HMOxN.jpg",
@@ -2406,7 +2865,11 @@
       "origin_price": 1600,
       "price": 1250,
       "unit": "條",
-      "color": ["深咖啡色", "經典黑", "駝色"],
+      "color": [
+        "深咖啡色",
+        "經典黑",
+        "駝色"
+      ],
       "num": {
         "深咖啡色": {
           "F": 10
@@ -2418,9 +2881,13 @@
           "F": 10
         }
       },
-      "size": ["F"],
+      "size": [
+        "F"
+      ],
       "imageUrl": "https://i.meee.com.tw/wH08vgl.jpg",
-      "imagesUrl": ["https://i.meee.com.tw/8X5JV11.png"],
+      "imagesUrl": [
+        "https://i.meee.com.tw/8X5JV11.png"
+      ],
       "id": "M6mvOR0cOv2Ri8ZzM9F4a"
     },
     {
@@ -2446,7 +2913,12 @@
       "origin_price": 600,
       "price": 450,
       "unit": "組",
-      "color": ["米白色", "薄荷綠", "珊瑚紅", "淡粉色"],
+      "color": [
+        "米白色",
+        "薄荷綠",
+        "珊瑚紅",
+        "淡粉色"
+      ],
       "num": {
         "米白色": {
           "F": 10
@@ -2461,9 +2933,13 @@
           "F": 10
         }
       },
-      "size": ["F"],
+      "size": [
+        "F"
+      ],
       "imageUrl": "https://i.meee.com.tw/p40xAZE.jpg",
-      "imagesUrl": [""],
+      "imagesUrl": [
+        ""
+      ],
       "id": "dhax1_rjg_-IHYdy_jBo9"
     },
     {
@@ -2489,7 +2965,11 @@
       "origin_price": 750,
       "price": 580,
       "unit": "組",
-      "color": ["奶茶漸層", "橄欖綠漸層", "紅棕漸層"],
+      "color": [
+        "奶茶漸層",
+        "橄欖綠漸層",
+        "紅棕漸層"
+      ],
       "num": {
         "奶茶漸層": {
           "F": 10
@@ -2501,9 +2981,13 @@
           "F": 10
         }
       },
-      "size": ["F"],
+      "size": [
+        "F"
+      ],
       "imageUrl": "https://i.meee.com.tw/2r45Q66.png",
-      "imagesUrl": [""],
+      "imagesUrl": [
+        ""
+      ],
       "id": "i7Q6273BsHSEHoexecpJb"
     },
     {
@@ -2529,7 +3013,11 @@
       "origin_price": 650,
       "price": 520,
       "unit": "組",
-      "color": ["純白色", "奶茶色", "杏色"],
+      "color": [
+        "純白色",
+        "奶茶色",
+        "杏色"
+      ],
       "num": {
         "純白色": {
           "F": 10
@@ -2541,9 +3029,13 @@
           "F": 10
         }
       },
-      "size": ["F"],
+      "size": [
+        "F"
+      ],
       "imageUrl": "https://i.meee.com.tw/8IxZNUf.png",
-      "imagesUrl": [""],
+      "imagesUrl": [
+        ""
+      ],
       "id": "dsBAdsK_A5_ynavH_QwnD"
     },
     {
@@ -2569,7 +3061,11 @@
       "origin_price": 850,
       "price": 650,
       "unit": "頂",
-      "color": ["黑色", "深藍色", "灰色"],
+      "color": [
+        "黑色",
+        "深藍色",
+        "灰色"
+      ],
       "num": {
         "黑色": {
           "F": 10
@@ -2581,9 +3077,13 @@
           "F": 10
         }
       },
-      "size": ["F"],
+      "size": [
+        "F"
+      ],
       "imageUrl": "https://i.meee.com.tw/8hJmiv4.png",
-      "imagesUrl": ["https://i.meee.com.tw/sl8LkeI.jpg"],
+      "imagesUrl": [
+        "https://i.meee.com.tw/sl8LkeI.jpg"
+      ],
       "id": "46jyJNm1mMjL0UtmCLoqw"
     },
     {
@@ -2609,7 +3109,11 @@
       "origin_price": 900,
       "price": 720,
       "unit": "頂",
-      "color": ["米色", "卡其色", "深藍色"],
+      "color": [
+        "米色",
+        "卡其色",
+        "深藍色"
+      ],
       "num": {
         "米色": {
           "F": 10
@@ -2621,9 +3125,13 @@
           "F": 10
         }
       },
-      "size": ["F"],
+      "size": [
+        "F"
+      ],
       "imageUrl": "https://i.meee.com.tw/SCsFtUa.png",
-      "imagesUrl": [""],
+      "imagesUrl": [
+        ""
+      ],
       "id": "i1yyppqgcso5knbhtpFZX"
     },
     {
@@ -2649,7 +3157,11 @@
       "origin_price": 1600,
       "price": 1300,
       "unit": "條",
-      "color": ["深棕色", "黑色", "中棕色"],
+      "color": [
+        "深棕色",
+        "黑色",
+        "中棕色"
+      ],
       "num": {
         "深棕色": {
           "F": 10
@@ -2661,9 +3173,13 @@
           "F": 10
         }
       },
-      "size": ["F"],
+      "size": [
+        "F"
+      ],
       "imageUrl": "https://i.meee.com.tw/nvHzOrU.png",
-      "imagesUrl": [""],
+      "imagesUrl": [
+        ""
+      ],
       "id": "Cn3X39poJ2pOnfx6iQmaI"
     },
     {
@@ -2689,7 +3205,11 @@
       "origin_price": 1800,
       "price": 1450,
       "unit": "條",
-      "color": ["深棕色", "黑色", "酒紅色"],
+      "color": [
+        "深棕色",
+        "黑色",
+        "酒紅色"
+      ],
       "num": {
         "深棕色": {
           "F": 10
@@ -2701,9 +3221,13 @@
           "F": 10
         }
       },
-      "size": ["F"],
+      "size": [
+        "F"
+      ],
       "imageUrl": "https://i.meee.com.tw/hOqEsl5.png",
-      "imagesUrl": [""],
+      "imagesUrl": [
+        ""
+      ],
       "id": "TflkFBqz1AM4T6NZt2QMW"
     },
     {
@@ -2729,7 +3253,11 @@
       "origin_price": 450,
       "price": 350,
       "unit": "雙",
-      "color": ["藍白條紋", "灰白條紋", "黑白條紋"],
+      "color": [
+        "藍白條紋",
+        "灰白條紋",
+        "黑白條紋"
+      ],
       "num": {
         "藍白條紋": {
           "F": 10
@@ -2741,9 +3269,13 @@
           "F": 10
         }
       },
-      "size": ["F"],
+      "size": [
+        "F"
+      ],
       "imageUrl": "https://i.meee.com.tw/slW5OtY.png",
-      "imagesUrl": [""],
+      "imagesUrl": [
+        ""
+      ],
       "id": "6NGj3iIRz6j5wxI41DT_h"
     },
     {
@@ -2769,7 +3301,10 @@
       "origin_price": 450,
       "price": 350,
       "unit": "組",
-      "color": ["米白條紋", "深灰條紋"],
+      "color": [
+        "米白條紋",
+        "深灰條紋"
+      ],
       "num": {
         "米白條紋": {
           "F": 10
@@ -2778,9 +3313,13 @@
           "F": 10
         }
       },
-      "size": ["F"],
+      "size": [
+        "F"
+      ],
       "imageUrl": "https://i.meee.com.tw/jN2jwwL.png",
-      "imagesUrl": [""],
+      "imagesUrl": [
+        ""
+      ],
       "id": "xs2xN9N1_jHFpbykr0i6q"
     }
   ],
@@ -2813,7 +3352,11 @@
             "origin_price": 1200,
             "price": 850,
             "unit": "件",
-            "color": ["紅色", "黃色", "水藍色"],
+            "color": [
+              "紅色",
+              "黃色",
+              "水藍色"
+            ],
             "num": {
               "紅色": {
                 "S": 12,
@@ -2837,7 +3380,13 @@
                 "2XL": 11
               }
             },
-            "size": ["S", "M", "L", "XL", "2XL"],
+            "size": [
+              "S",
+              "M",
+              "L",
+              "XL",
+              "2XL"
+            ],
             "imageUrl": "https://i.meee.com.tw/wEzHrAc.jpeg",
             "imagesUrl": [
               "https://i.meee.com.tw/cQ4ntRf.jpeg",
