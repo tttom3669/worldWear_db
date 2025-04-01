@@ -30,6 +30,10 @@ const rules = auth.rewriter({
   '/admin/users/*': '/660/users/$1',
   '/admin/orders': '/660/orders',
   '/admin/orders/*': '/660/orders/$1',
+  '/admin/products': '/660/products',
+  '/admin/products/*': '/660/products/$1',
+  '/admin/coupons': '/660/coupons',
+  '/admin/coupons/*': '/660/coupons/$1',
 });
 
 server.db = router.db;
