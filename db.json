@@ -3499,7 +3499,8 @@
       "title": "新會員優惠 10% off",
       "is_enabled": true,
       "percent": 10,
-      "due_date": 32535215999,
+      "start_date": 1735574400,
+      "due_date": 4070966399,
       "code": "worldWear",
       "id": "c5IZ6Zyt36jd8mRzlRu_I"
     }
